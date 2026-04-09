@@ -1,0 +1,20 @@
+[
+  {
+    "id": "team-finance",
+    "name": "Finance",
+    "description": "Investment banking analyst and associate hiring",
+    "domain": "finance"
+  },
+  {
+    "id": "team-admissions",
+    "name": "Admissions",
+    "description": "Graduate school MBA program admissions",
+    "domain": "admissions"
+  },
+  {
+    "id": "team-healthcare",
+    "name": "Healthcare",
+    "description": "Clinical operations and nursing staff recruitment",
+    "domain": "healthcare"
+  }
+]

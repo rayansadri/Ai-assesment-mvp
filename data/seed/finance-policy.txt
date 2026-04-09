@@ -1,0 +1,27 @@
+INVESTMENT BANKING ANALYST HIRING RUBRIC — INTERNAL USE ONLY
+
+OVERVIEW
+This document outlines the evaluation criteria for analyst and associate candidates joining the Investment Banking division. All assessors should apply these criteria consistently across interview stages.
+
+TECHNICAL COMPETENCIES
+Candidates must demonstrate proficiency in financial modeling including DCF, LBO, and M&A analysis. Expect candidates to construct and walk through a three-statement model under time pressure. Errors in basic arithmetic or formula logic are disqualifying. Candidates should be able to interpret financial statements independently and explain variance drivers without prompting.
+
+ANALYTICAL RIGOR
+We assess the ability to structure ambiguous problems with incomplete information. Strong candidates break down a business question into quantifiable components, state assumptions clearly, and arrive at a defensible conclusion. Avoid candidates who jump to conclusions without showing their work.
+
+CLIENT COMMUNICATION
+Analysts are client-facing from day one. Candidates should demonstrate clear, direct written and verbal communication. Assess the ability to simplify complex financial concepts for non-technical audiences. Watch for filler language, passive voice, and lack of specificity.
+
+INTEGRITY AND ETHICS
+Given the regulatory environment, integrity is non-negotiable. Probe for situations where candidates faced pressure to cut corners or misrepresent data. Red flags include vague answers about past conflicts of interest, inability to articulate what they would do when asked to do something ethically questionable, and any inconsistencies in their stated timeline or credentials.
+
+WORK ETHIC AND RESILIENCE
+Investment banking demands extended work periods under pressure. Candidates should provide specific examples of managing multiple high-stakes deliverables simultaneously. Vague claims of being a "hard worker" without evidence are insufficient.
+
+INTEGRITY CHECKS
+Verify all quantitative claims candidates make about past deal experience or financial metrics. Cross-reference stated credentials with verifiable sources. Any candidate who claims credit for work they did not lead should be flagged for further review.
+
+SCORING ANCHOR NOTES
+Score 1: Candidate fails to demonstrate the competency even with prompting
+Score 3: Candidate demonstrates the competency with moderate support or prompting
+Score 5: Candidate demonstrates mastery independently, with specific examples and strong reasoning

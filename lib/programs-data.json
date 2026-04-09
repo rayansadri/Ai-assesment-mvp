@@ -1,0 +1,4304 @@
+[
+  {
+    "institution": "Assiniboine College",
+    "programs": [
+      {
+        "title": "Civil Technology - Municipal Engineering Specialization",
+        "code": "CTMES"
+      },
+      {
+        "title": "Comprehensive Health Care Aide",
+        "code": "CHCA"
+      },
+      {
+        "title": "Comprehensive Health Care Aide Winnipeg",
+        "code": "CHCA"
+      },
+      {
+        "title": "Comprehensive Health Care Aide \u2013 (CHCA) \u2013 (Dauphin)",
+        "code": "CHCA"
+      },
+      {
+        "title": "Comprehensive Health Care Aide \u2013 (CHCA) \u2013 (Winnipeg)",
+        "code": "CHCA"
+      },
+      {
+        "title": "Construction Electrician",
+        "code": "CE"
+      },
+      {
+        "title": "Early Childhood Education (ECE)",
+        "code": "ECE"
+      },
+      {
+        "title": "Early Childhood Education (ECE) \u2013 (Dauphin)",
+        "code": "ECE"
+      },
+      {
+        "title": "Education Assistant",
+        "code": "EA"
+      },
+      {
+        "title": "Food Processing - Animal Proteins",
+        "code": "FPA"
+      },
+      {
+        "title": "Food Services Management",
+        "code": "FSM"
+      },
+      {
+        "title": "Land and Water Management",
+        "code": "LAWM"
+      },
+      {
+        "title": "Pre-Health Sciences",
+        "code": "PHS"
+      },
+      {
+        "title": "Professional Cooking",
+        "code": "PC"
+      },
+      {
+        "title": "Social Service Worker \u2013 (SSW) \u2013 (Dauphin)",
+        "code": "SSW"
+      }
+    ]
+  },
+  {
+    "institution": "Bow Valley College",
+    "programs": [
+      {
+        "title": "Business Administration - Insurance and Risk Management Major",
+        "code": "BA-IRM"
+      },
+      {
+        "title": "Child and Youth Care",
+        "code": "CYC"
+      },
+      {
+        "title": "Cybersecurity Solutions",
+        "code": "CSS"
+      },
+      {
+        "title": "Digital Design",
+        "code": "DD"
+      },
+      {
+        "title": "Digital Marketing - Post-Diploma Certificate",
+        "code": "52.1404"
+      },
+      {
+        "title": "Disability Studies \u2013 (19.0710) \u2013 (Certificate)",
+        "code": "19.071"
+      },
+      {
+        "title": "Information Technology Solutions",
+        "code": "ITS"
+      },
+      {
+        "title": "Practical Nurse",
+        "code": "PN"
+      }
+    ]
+  },
+  {
+    "institution": "Canadore College",
+    "programs": [
+      {
+        "title": "Advanced Manufacturing, Design and Management - (030641)",
+        "code": "30641"
+      },
+      {
+        "title": "Aircraft Structural Repair Technician \u2013 (030305)",
+        "code": "30305"
+      },
+      {
+        "title": "Aviation Fundamentals \u2013 (030208)",
+        "code": "30208"
+      },
+      {
+        "title": "Aviation Technician \u2013 Aircraft Maintenance - (030201)",
+        "code": "30201"
+      },
+      {
+        "title": "Aviation Technician \u2013 Avionics Maintenance \u2013 (030203)",
+        "code": "30203"
+      },
+      {
+        "title": "Aviation Technology \u2013 Aircraft Maintenance & Structural Repair \u2013 (030306)",
+        "code": "30306"
+      },
+      {
+        "title": "Aviation Technology \u2013 Aircraft Maintenance and Avionics \u2013 (030307)",
+        "code": "30307"
+      },
+      {
+        "title": "Bachelor of Commerce - (BCOM)",
+        "code": "BCOM"
+      },
+      {
+        "title": "Bachelor of Computer Science \u2013 Software Development - (BCSC)",
+        "code": "BCSC"
+      },
+      {
+        "title": "Behavioural Science - Technology (Advanced Diploma) \u2013 (010242)",
+        "code": "10242"
+      },
+      {
+        "title": "Bioinformatics \u2013 (030121)",
+        "code": "30121"
+      },
+      {
+        "title": "Biotechnology - Technician \u2013 (030112)",
+        "code": "30112"
+      },
+      {
+        "title": "Biotechnology - Technologist \u2013 (030113)",
+        "code": "30113"
+      },
+      {
+        "title": "Building Construction Technician - (030623)",
+        "code": "30623"
+      },
+      {
+        "title": "Civil Engineering - Technician \u2013 (030628)",
+        "code": "30628"
+      },
+      {
+        "title": "Civil Engineering - Technology (Advanced Diploma) \u2013 (030629)",
+        "code": "30629"
+      },
+      {
+        "title": "Computer Programmer Analyst \u2013 (020401)",
+        "code": "20401"
+      },
+      {
+        "title": "Construction Site Management \u2013 (030642)",
+        "code": "30642"
+      },
+      {
+        "title": "Culinary Skills - Chef Training - (020212)",
+        "code": "20212"
+      },
+      {
+        "title": "Data Analytics and Research (Enterprise Analysis and Research) \u2013 (020151)",
+        "code": "20151"
+      },
+      {
+        "title": "Electrical Techniques \u2013 (030618)",
+        "code": "30618"
+      },
+      {
+        "title": "Environmental Management - (030115)",
+        "code": "30115"
+      },
+      {
+        "title": "Environmental Technician \u2013 (030122)",
+        "code": "30122"
+      },
+      {
+        "title": "Environmental Technician \u2013 030122 - 3 Year",
+        "code": "30122"
+      },
+      {
+        "title": "Environmental Technology \u2013 (030119)",
+        "code": "30119"
+      },
+      {
+        "title": "Functional Genomics and Clinical Consultation \u2013 (030120)",
+        "code": "30120"
+      },
+      {
+        "title": "Game Design and Development \u2013 (010130)",
+        "code": "10130"
+      },
+      {
+        "title": "Graphic Design \u2013 (010110)",
+        "code": "10110"
+      },
+      {
+        "title": "Honours Bachelor of Science - Nursing \u2013 (HBSC)",
+        "code": "HBSCN"
+      },
+      {
+        "title": "Indigenous Wellness and Addictions Prevention \u2013 (010244)",
+        "code": "10244"
+      },
+      {
+        "title": "International Nursing License Preparation \u2013 (040110)",
+        "code": "40110"
+      },
+      {
+        "title": "Logistics and Supply Chain Management - (020150)",
+        "code": "20150"
+      },
+      {
+        "title": "Mechanical Engineering - Technician \u2013 (030630)",
+        "code": "30630"
+      },
+      {
+        "title": "Mechanical Engineering - Technology (3-Year Advanced Diploma) \u2013 (030631)",
+        "code": "30631"
+      },
+      {
+        "title": "Mechanical Technician - CNC and Precision Machining \u2013 (030634)",
+        "code": "30634"
+      },
+      {
+        "title": "Mechanical Technician \u2013 Welder-Fitter \u2013 (030626)",
+        "code": "30626"
+      },
+      {
+        "title": "Mechanical Techniques - Precision Machining \u2013 (030633)",
+        "code": "30633"
+      },
+      {
+        "title": "Mechanical Techniques \u2013 Plumbing \u2013 (030619)",
+        "code": "30619"
+      },
+      {
+        "title": "Mechanical Techniques \u2013 Welder-Fitter - (030616)",
+        "code": "30616"
+      },
+      {
+        "title": "Medical Laboratory Technology \u2013 (040304)",
+        "code": "40304"
+      },
+      {
+        "title": "Mental Health and Addictions Worker Intensive (accelerated) \u2013 (010322)",
+        "code": "10322"
+      },
+      {
+        "title": "Occupational Therapist Assistant and Physiotherapist Assistant Intensive (Accelerated) \u2013 (040303)",
+        "code": "40303"
+      },
+      {
+        "title": "Practical Nursing \u2013 (040108)",
+        "code": "40108"
+      },
+      {
+        "title": "Pre-Health Pathway to Advanced Diplomas and Degrees \u2013 (010243)",
+        "code": "10243"
+      },
+      {
+        "title": "Pre-Health Pathway to Certificates and Diplomas - (010234)",
+        "code": "10234"
+      },
+      {
+        "title": "Project Management - Information Technology \u2013 (020409)",
+        "code": "20409"
+      },
+      {
+        "title": "Recreation Therapy - Fast Track - (010412)",
+        "code": "10412"
+      },
+      {
+        "title": "Recreation Therapy \u2013 (010407)",
+        "code": "10407"
+      },
+      {
+        "title": "Renovation Techniques \u2013 Construction Carpentry \u2013 (030613)",
+        "code": "30613"
+      },
+      {
+        "title": "Respiratory Therapy - (040301)",
+        "code": "40301"
+      },
+      {
+        "title": "Social Service Worker Intensive (accelerated) \u2013 (010310)",
+        "code": "10310"
+      },
+      {
+        "title": "Strength and Sport Conditioning - (010410)",
+        "code": "10410"
+      }
+    ]
+  },
+  {
+    "institution": "Cape Breton University",
+    "programs": [
+      {
+        "title": "Bachelor of Arts Community Studies - 4 year",
+        "code": "BACS"
+      },
+      {
+        "title": "Bachelor of Arts and Science in Environment",
+        "code": "BASE"
+      },
+      {
+        "title": "Bachelor of Engineering (Transfer)",
+        "code": "BOET"
+      },
+      {
+        "title": "Bachelor of Science (3 Year)",
+        "code": "BOS"
+      },
+      {
+        "title": "Bachelor of Science, Nutrition (Transfer)",
+        "code": "BSNT"
+      },
+      {
+        "title": "MBA in Community Economic Development",
+        "code": "MBA-CED"
+      },
+      {
+        "title": "Master of Artificial Intelligence and Business Analytics",
+        "code": "MAIBA"
+      },
+      {
+        "title": "Master of Education in Critical Curriculum Studies",
+        "code": "MECCS"
+      },
+      {
+        "title": "Master of Education in Holistic School Health and Well-Being",
+        "code": "MEHHSHWB"
+      },
+      {
+        "title": "Master of Education in Sustainability, Creativity and Innovation",
+        "code": "MESCI"
+      },
+      {
+        "title": "Master of Healthcare Leadership and Innovation",
+        "code": "MHLI"
+      }
+    ]
+  },
+  {
+    "institution": "College Of The North Atlantic",
+    "programs": [
+      {
+        "title": "Agriculture Technician Co-op \n\n\u2013 (794)",
+        "code": "794"
+      },
+      {
+        "title": "Aircraft Maintenance Engineering Technician",
+        "code": "AMET"
+      },
+      {
+        "title": "Aircraft Structural Repair Technician",
+        "code": "718"
+      },
+      {
+        "title": "Architectural Engineering Technology",
+        "code": "AET"
+      },
+      {
+        "title": "Carpenter",
+        "code": "646"
+      },
+      {
+        "title": "Civil Engineering Technology (Co-op)",
+        "code": "955"
+      },
+      {
+        "title": "Community Leadership Development \u2013 (734)",
+        "code": "734"
+      },
+      {
+        "title": "Community and Therapeutic Recreation",
+        "code": "4A5"
+      },
+      {
+        "title": "Computing Systems Engineering Technology (Co-op)",
+        "code": "485"
+      },
+      {
+        "title": "Construction / Industrial Electrician",
+        "code": "576"
+      },
+      {
+        "title": "Construction / Industrial Electrician - Corner Brook Campus",
+        "code": "576"
+      },
+      {
+        "title": "Cook",
+        "code": "978"
+      },
+      {
+        "title": "Early Childhood Education",
+        "code": "826"
+      },
+      {
+        "title": "Electrical Engineering Technology (Power & Controls) Co-op",
+        "code": "7A8"
+      },
+      {
+        "title": "Electronic Systems Engineering Technology (Co-op) \u2013 (732)",
+        "code": "732"
+      },
+      {
+        "title": "Electronics Engineering Technology (Biomedical)",
+        "code": "439"
+      },
+      {
+        "title": "Environmental Engineering Technology (Co-op)",
+        "code": "662"
+      },
+      {
+        "title": "Graphic Design",
+        "code": "851"
+      },
+      {
+        "title": "Heating Systems Technician",
+        "code": "HST"
+      },
+      {
+        "title": "Heavy Duty Equipment Technician/Truck and Transport Mechanic",
+        "code": "597"
+      },
+      {
+        "title": "Heavy Equipment Operator",
+        "code": "428"
+      },
+      {
+        "title": "Hydrogen Technician",
+        "code": "HT"
+      },
+      {
+        "title": "Industrial Mechanic (Millwright) \u2013 (656)",
+        "code": "656"
+      },
+      {
+        "title": "Machinist",
+        "code": "M"
+      },
+      {
+        "title": "Mechanical Engineering Technology",
+        "code": "929"
+      },
+      {
+        "title": "Mental Health and Addictions",
+        "code": "3A2"
+      },
+      {
+        "title": "Mining Engineering Technician",
+        "code": "MET"
+      },
+      {
+        "title": "Personal Care Attendant (PCA)",
+        "code": "PCA"
+      },
+      {
+        "title": "Plumber",
+        "code": "774"
+      },
+      {
+        "title": "Power Engineering Technology",
+        "code": "424"
+      },
+      {
+        "title": "Practical Nursing",
+        "code": "564"
+      },
+      {
+        "title": "Refrigeration & Air Conditioning Mechanic",
+        "code": "RACM"
+      },
+      {
+        "title": "Software Development (Co-op)",
+        "code": "SDC"
+      },
+      {
+        "title": "Steamfitter / Pipefitter",
+        "code": "615"
+      },
+      {
+        "title": "Welder",
+        "code": "783"
+      },
+      {
+        "title": "Welder / Metal Fabricator (Fitter)",
+        "code": "WMFF"
+      },
+      {
+        "title": "Welding Engineering Technician (Co-op)",
+        "code": "WET"
+      },
+      {
+        "title": "Wind Turbine Technician \u2013 (1B3)",
+        "code": "1B3"
+      }
+    ]
+  },
+  {
+    "institution": "College Of The Rockies",
+    "programs": [
+      {
+        "title": "Associate of Arts Degree \u2013 Psychology",
+        "code": "AADP"
+      },
+      {
+        "title": "Associate of Arts \u2013 Social Work",
+        "code": "AA-SW"
+      },
+      {
+        "title": "Associate of Science \u2013 Environmental Science",
+        "code": "ASES"
+      },
+      {
+        "title": "Bachelor of Business Administration: Sustainable Business Practices",
+        "code": "BBASBP"
+      },
+      {
+        "title": "Biology and Medicine Pre-Major",
+        "code": "BMPM"
+      },
+      {
+        "title": "Computer Information Systems Technology",
+        "code": "CIST"
+      },
+      {
+        "title": "Environmental Studies Certificate",
+        "code": "ESC"
+      },
+      {
+        "title": "Kinesiology Certificate",
+        "code": "KC"
+      },
+      {
+        "title": "Kinesiology Diploma",
+        "code": "KD"
+      },
+      {
+        "title": "Practical Nurse",
+        "code": "PN"
+      }
+    ]
+  },
+  {
+    "institution": "Douglas College",
+    "programs": [
+      {
+        "title": "Academic Foundations for Potential Nursing Applicants (Certificate) \u2013 (CTAFPN)",
+        "code": "CTAFPN"
+      },
+      {
+        "title": "Academic Foundations for Potential Psychiatric Nursing Applicants (Certificate) \u2013 (CTAFPP)",
+        "code": "CTAFPP"
+      },
+      {
+        "title": "Accounting (Bachelor of Business Administration) \u2013 (BBAA)",
+        "code": "BBAA"
+      },
+      {
+        "title": "Accounting (Certificate) \u2013 (CTACCT)",
+        "code": "CTACCT"
+      },
+      {
+        "title": "Accounting (Post-Baccalaureate Diploma) \u2013 (PBACCT)",
+        "code": "PBACCT"
+      },
+      {
+        "title": "Accounting (Post-Degree Diploma) \u2013 (PDACCT)",
+        "code": "PDACCT"
+      },
+      {
+        "title": "Accounting Studies (Post-Degree Diploma) - (PDACCS)",
+        "code": "PDACCS"
+      },
+      {
+        "title": "Accounting \u2013 (DPACCT)",
+        "code": "DPACCT"
+      },
+      {
+        "title": "Advanced Supply Chain Management (Post-Baccalaureate Diploma) \u2013 (PBDADVSCM)",
+        "code": "PBDADVSCM"
+      },
+      {
+        "title": "Applied Accounting (Certificate) \u2013 (CTACTE)",
+        "code": "CTACTE"
+      },
+      {
+        "title": "Child and Youth Care (Bachelor of Arts) - (BACYCC)",
+        "code": "BACYCC"
+      },
+      {
+        "title": "Computer and Information Systems (Post-Baccalaureate Diploma) \u2013 (PBDCIS)",
+        "code": "PBDCIS"
+      },
+      {
+        "title": "Computing Science (Certificate) \u2013 (CTCSCI)",
+        "code": "CTCSCI"
+      },
+      {
+        "title": "Computing Science (Diploma) \u2013 (DPCPSC)",
+        "code": "DPCPSC"
+      },
+      {
+        "title": "Computing Studies and Information Systems \u2013 (DPCSTI)",
+        "code": "DPCSTI"
+      },
+      {
+        "title": "Criminal Justice Studies \u2013 (CTCRIM)",
+        "code": "CTCRIM"
+      },
+      {
+        "title": "Criminology - (DPCRIM)",
+        "code": "DPCRIM"
+      },
+      {
+        "title": "Criminology, Applied (Bachelor of Arts) \u2013 (BAACRIM)",
+        "code": "BAACRIM"
+      },
+      {
+        "title": "Data Analytics (Post-Degree Diploma) \u2013 (PDDATA)",
+        "code": "PDDATA"
+      },
+      {
+        "title": "Digital Marketing \u2013 (PBDMARK)",
+        "code": "PBDMARK"
+      },
+      {
+        "title": "Early Childhood Education (Diploma) \u2013 (DPECES)",
+        "code": "DPECES"
+      },
+      {
+        "title": "Economics (Associate Degree) - (AAECON)",
+        "code": "AAECON"
+      },
+      {
+        "title": "Engineering Foundations \u2013 (CTEGFND)",
+        "code": "CTEGFND"
+      },
+      {
+        "title": "Engineering and Fabrication Technologies (Diploma) \u2013 (DPEGESS)",
+        "code": "DPEGESS"
+      },
+      {
+        "title": "Environmental Science (Associate Degree) \u2013 (ASENSC)",
+        "code": "ASENSC"
+      },
+      {
+        "title": "Environmental Studies (Associate Degree) \u2013 (ASARTE)",
+        "code": "ASARTE"
+      },
+      {
+        "title": "Finance (Post-Baccalaureate Diploma) \u2013 (PBFINC)",
+        "code": "PBFINC"
+      },
+      {
+        "title": "Financial Analysis (Post-Degree Diploma) \u2013 (PDFIAN)",
+        "code": "PDFIAN"
+      },
+      {
+        "title": "Financial Planning (Post-Degree Diploma) \u2013 (PDFIPL)",
+        "code": "PDFIPL"
+      },
+      {
+        "title": "Financial Services (Bachelor of Business Administration) \u2013 (BBAFA)",
+        "code": "BBAFA"
+      },
+      {
+        "title": "Financial Services (Diploma) \u2013 (DPFSMT)",
+        "code": "DPFSMT"
+      },
+      {
+        "title": "Foundation for Music Therapy Studies \u2013 (DPFMTS)",
+        "code": "DPFMTS"
+      },
+      {
+        "title": "Future Teachers (Associate Degree) \u2013 (AAFT)",
+        "code": "AAFT"
+      },
+      {
+        "title": "Geological Resources (Diploma) \u2013 (DPGEOR)",
+        "code": "DPGEOR"
+      },
+      {
+        "title": "Health Information Management (Bachelor of Science) \u2013 (BScHIM)",
+        "code": "BScHIM"
+      },
+      {
+        "title": "Health Information Management (Post-Baccalaureate Diploma) \u2013 (PDHIM)",
+        "code": "PDHIM"
+      },
+      {
+        "title": "Hearing Aid Sciences \u2013 (DPHEAR)",
+        "code": "DPHEAR"
+      },
+      {
+        "title": "Information and Communication Technology \u2013 (PDICT)",
+        "code": "PDICT"
+      },
+      {
+        "title": "International Supply Chain Management (Post-Baccalaureate Diploma) \u2013 (PBDISCM)",
+        "code": "PBDISCM"
+      },
+      {
+        "title": "Kinesiology (Post-Degree Diploma) \u2013 (PDDKIN)",
+        "code": "PDDKIN"
+      },
+      {
+        "title": "Legal Studies (Diploma) \u2013 (DPLEGAL)",
+        "code": "DPLEGAL"
+      },
+      {
+        "title": "Management (Bachelor of Business Administration) \u2013 (BBAMGMT)",
+        "code": "BBAMGMT"
+      },
+      {
+        "title": "Marketing (Bachelor) \u2013 (BBAMARK)",
+        "code": "BBAMARK"
+      },
+      {
+        "title": "Marketing (Certificate) \u2013 (CTMARK)",
+        "code": "CTMARK"
+      },
+      {
+        "title": "Marketing (Diploma) \u2013 (DPMARK)",
+        "code": "DPMARK"
+      },
+      {
+        "title": "Marketing (Post-Degree Diploma) \u2013 (PDMARK)",
+        "code": "PDMARK"
+      },
+      {
+        "title": "Nursing (Bachelor of Science) \u2013 (BSNURS)",
+        "code": "BSNURS"
+      },
+      {
+        "title": "Professional Communication (Post-Degree Diploma) \u2013 (PDPCOM)",
+        "code": "PDPCOM"
+      },
+      {
+        "title": "Psychiatric Nursing (Bachelor of Science) \u2013 (BSPNUR)",
+        "code": "BSPNUR"
+      },
+      {
+        "title": "Psychology (Associate Degree - Pre-Bachelor's) \u2013 (AAPSYCPRE)",
+        "code": "AAPSYCPRE"
+      },
+      {
+        "title": "Psychology, Applied (Bachelor of Arts) \u2013 (BAAPSYC)",
+        "code": "BAAPSYC"
+      },
+      {
+        "title": "Sport Science (Diploma) \u2013 (DPSPOR)",
+        "code": "DPSPOR"
+      },
+      {
+        "title": "Supply Chain Management (Post-Degree Diploma) \u2013 (PDSCMGT)",
+        "code": "PDSCMGT"
+      },
+      {
+        "title": "Therapeutic Recreation (Bachelor) \u2013 (BTR)",
+        "code": "BTR"
+      },
+      {
+        "title": "Therapeutic Recreation (Diploma) \u2013 (DPTRT)",
+        "code": "DPTRT"
+      }
+    ]
+  },
+  {
+    "institution": "Fleming College",
+    "programs": [
+      {
+        "title": "Arboriculture (Co-op) - (AR)",
+        "code": "AR"
+      },
+      {
+        "title": "Artificial Intelligence \u2013 (AI)",
+        "code": "AI"
+      },
+      {
+        "title": "Biotechnology - Advanced \u2013 (BTF)",
+        "code": "BTF"
+      },
+      {
+        "title": "Blasting Techniques - (SBL)",
+        "code": "SBL"
+      },
+      {
+        "title": "Community Collaboration in Addictions and Mental Health \u2013 (CAM)",
+        "code": "CAM"
+      },
+      {
+        "title": "Computer Engineering Technician \u2013 (CTN)",
+        "code": "CTN"
+      },
+      {
+        "title": "Computer Security and Investigations - (CSI)",
+        "code": "CSI"
+      },
+      {
+        "title": "Developmental Services Worker \u2013 (DSW)",
+        "code": "DSW"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (EC)",
+        "code": "EC"
+      },
+      {
+        "title": "Ecosystem Management Technician - (EMT)",
+        "code": "EMT"
+      },
+      {
+        "title": "Educational Support \u2013 (ED)",
+        "code": "ED"
+      },
+      {
+        "title": "Electrical Engineering Technician - (EE)",
+        "code": "EE"
+      },
+      {
+        "title": "Electrical Engineering Technology \u2013 (ETT)",
+        "code": "ETT"
+      },
+      {
+        "title": "Fitness and Health Promotion \u2013 (FHP)",
+        "code": "FHP"
+      },
+      {
+        "title": "Graphic Design - Visual Communication \u2013 (GDV)",
+        "code": "GDV"
+      },
+      {
+        "title": "Heating, Refrigeration and Air Conditioning Technician - (HVT)",
+        "code": "HVT"
+      },
+      {
+        "title": "Massage Therapy \u2013 (MAC)",
+        "code": "MAC"
+      },
+      {
+        "title": "Mechanical Techniques - Plumbing - (PLM)",
+        "code": "PLM"
+      },
+      {
+        "title": "Mental Health And Addiction Worker - (DA)",
+        "code": "DA"
+      },
+      {
+        "title": "Mental Health and Addiction Worker - Social Service Worker Dual Diploma - (DMD)",
+        "code": "DMD"
+      },
+      {
+        "title": "Occupational Therapist Assistant and Physiotherapist Assistant \u2013 (POA)",
+        "code": "POA"
+      },
+      {
+        "title": "Pharmacy Technician \u2013 (PHM)",
+        "code": "PHM"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees - (PHS)",
+        "code": "PHS"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Certificates and Diplomas \u2013 (GHS)",
+        "code": "GHS"
+      },
+      {
+        "title": "Resources Drilling Technician (Optional Co-op) \u2013 (RDB)",
+        "code": "RDB"
+      },
+      {
+        "title": "Social Service Worker \u2013 (SW)",
+        "code": "SW"
+      },
+      {
+        "title": "Welding Techniques \u2013 (WTQ)",
+        "code": "WTQ"
+      }
+    ]
+  },
+  {
+    "institution": "George Brown College",
+    "programs": [
+      {
+        "title": "Advanced Social Media Production - Auteurism \u2013 (P411)",
+        "code": "P411"
+      },
+      {
+        "title": "Applied A.I. Solutions Development Program (Postgraduate) \u2013 (T431)",
+        "code": "T431"
+      },
+      {
+        "title": "Applied A.I. Solutions Development \u2013 (T431)",
+        "code": "T431"
+      },
+      {
+        "title": "Behavioural Science Technician (Accelerated) \u2013 (C156)",
+        "code": "C156"
+      },
+      {
+        "title": "Behavioural Science Technician \u2013 (C146)",
+        "code": "C146"
+      },
+      {
+        "title": "Building Renovation Technology \u2013 (T148)",
+        "code": "T148"
+      },
+      {
+        "title": "Business Administration - Supply Chain and Operations Management \u2013 (B122)",
+        "code": "B122"
+      },
+      {
+        "title": "Business Administration \u2013 Supply Chain and Operations Management (with work experience) \u2013 (B162)",
+        "code": "B162"
+      },
+      {
+        "title": "Carpentry and Renovation Technician \u2013 (T180)",
+        "code": "T180"
+      },
+      {
+        "title": "Child and Youth Care - (C133)",
+        "code": "C133"
+      },
+      {
+        "title": "Child and Youth Care Program (Accelerated) - (C153)",
+        "code": "C153"
+      },
+      {
+        "title": "Civil Engineering Technology - (T164)",
+        "code": "T164"
+      },
+      {
+        "title": "Cloud Computing Technologies \u2013 (T465)",
+        "code": "T465"
+      },
+      {
+        "title": "Community Worker Program (Accelerated) (C131)",
+        "code": "C131"
+      },
+      {
+        "title": "Community Worker Program (Accelerated) \u2013 (C131)",
+        "code": "C131"
+      },
+      {
+        "title": "Community Worker \u2013 (C101)",
+        "code": "C101"
+      },
+      {
+        "title": "Computer Systems Technician \u2013 (T141)",
+        "code": "T141"
+      },
+      {
+        "title": "Computer Systems Technology \u2013 (T147)",
+        "code": "T147"
+      },
+      {
+        "title": "Construction Engineering Technician - (T161)",
+        "code": "T161"
+      },
+      {
+        "title": "Culinary Skills \u2013 (H134)",
+        "code": "H134"
+      },
+      {
+        "title": "Deafblind & Intervenor Studies \u2013 (C158)",
+        "code": "C158"
+      },
+      {
+        "title": "Digital Product Management \u2013 (T428)",
+        "code": "T428"
+      },
+      {
+        "title": "Early Childhood Education (Accelerated) \u2013 (C160)",
+        "code": "C160"
+      },
+      {
+        "title": "Early Childhood Education (Consecutive Diploma/Degree) \u2013 (C118)",
+        "code": "C118"
+      },
+      {
+        "title": "Early Childhood Education (Consecutive Diploma/GBC Degree) \u2013 (C148)",
+        "code": "C148"
+      },
+      {
+        "title": "Early Childhood Education (Fast-Track) \u2013 (C130)",
+        "code": "C130"
+      },
+      {
+        "title": "Electromechanical Engineering Technology - Power and Control                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    \" \u2013 (T182)",
+        "code": "T182"
+      },
+      {
+        "title": "Embedded Systems Development (T415)",
+        "code": "T415"
+      },
+      {
+        "title": "Food and Nutrition Management \u2013 (H402)",
+        "code": "H402"
+      },
+      {
+        "title": "Game \u2013 Programming \u2013 (T163)",
+        "code": "T163"
+      },
+      {
+        "title": "Graphic Design \u2013 (G102)",
+        "code": "G102"
+      },
+      {
+        "title": "Health Informatics \u2013 (T402)",
+        "code": "T402"
+      },
+      {
+        "title": "Hearing Instrument Specialist \u2013 (S117)",
+        "code": "S117"
+      },
+      {
+        "title": "Honours Bachelor of Behaviour Analysis (Year 3 Bridge) - (S303)",
+        "code": "S303"
+      },
+      {
+        "title": "Honours Bachelor of Behaviour Analysis (Year 3 Bridge) \u2013 (S303)",
+        "code": "S303"
+      },
+      {
+        "title": "Honours Bachelor of Behaviour Analysis Program (Year 3 Bridge) (S303)",
+        "code": "S303"
+      },
+      {
+        "title": "Honours Bachelor of Behaviour Analysis Program (Year 3 Bridge) \u2013 (S303)",
+        "code": "S303"
+      },
+      {
+        "title": "Honours Bachelor of Behaviour Analysis \u2013 (S302)",
+        "code": "S302"
+      },
+      {
+        "title": "Honours Bachelor of Brand Design (Bridge) \u2013 (G305)",
+        "code": "G305"
+      },
+      {
+        "title": "Honours Bachelor of Brand Design \u2013 (G304)",
+        "code": "G304"
+      },
+      {
+        "title": "Honours Bachelor of Business Administration (Hospitality) (Fast-Track) \u2013 (H312)",
+        "code": "H312"
+      },
+      {
+        "title": "Honours Bachelor of Commerce (Culinary Management) Program (Bridging) \u2013 (H316)",
+        "code": "H316"
+      },
+      {
+        "title": "Honours Bachelor of Commerce (Digital Marketing) - (B312)",
+        "code": "B312"
+      },
+      {
+        "title": "Honours Bachelor of Commerce (Financial Services) \u2013 (B302)",
+        "code": "B302"
+      },
+      {
+        "title": "Honours Bachelor of Digital Experience Design - Year 3 Bridge (G302)",
+        "code": "G302"
+      },
+      {
+        "title": "Honours Bachelor of Digital Experience Design \u2013 (G301)",
+        "code": "G301"
+      },
+      {
+        "title": "Honours Bachelor of Food Studies Program (Bridging) \u2013 (H318)",
+        "code": "H318"
+      },
+      {
+        "title": "Honours Bachelor of Food Studies \u2013 (H317)",
+        "code": "H317"
+      },
+      {
+        "title": "Honours Bachelor of Interpretation (American Sign Language - English) \u2013 (C302)",
+        "code": "C302"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) (T318)",
+        "code": "T318"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) - (T317)",
+        "code": "T317"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) \u2013 (T314)",
+        "code": "T314"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) \u2013 (T316)",
+        "code": "T316"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) \u2013 (T317)",
+        "code": "T317"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) Program (Bridging) \u2013 (T318)",
+        "code": "T318"
+      },
+      {
+        "title": "Honours Bachelor of Technology (Construction Management) \u2013 (T312)",
+        "code": "T312"
+      },
+      {
+        "title": "Information Systems Business Analysis (with experiential learning capstone) - (T405)",
+        "code": "T405"
+      },
+      {
+        "title": "Information Systems Business Analysis Program (with experiential learning capstone) (Postgraduate) \u2013 (T405)",
+        "code": "T405"
+      },
+      {
+        "title": "Interaction Design \u2013 (G113)",
+        "code": "G113"
+      },
+      {
+        "title": "Internet of Things - System Design and Implementation (T427)",
+        "code": "T427"
+      },
+      {
+        "title": "Marketing Management \u2013 Digital Media \u2013 (B433)",
+        "code": "B433"
+      },
+      {
+        "title": "Master of Construction Management \u2013 (T550)",
+        "code": "T550"
+      },
+      {
+        "title": "Mobile Application Development and Strategy - (T440)",
+        "code": "T440"
+      },
+      {
+        "title": "Mobile Application Development and Strategy Program (Postgraduate) (T440)",
+        "code": "T440"
+      },
+      {
+        "title": "Occupational Therapist Assistant and Physiotherapist Assistant \u2013 (S126)",
+        "code": "S126"
+      },
+      {
+        "title": "Orthotic/Prosthetic Technician - (S102)",
+        "code": "S102"
+      },
+      {
+        "title": "Orthotic/Prosthetic Technician \u2013 (S102)",
+        "code": "S102"
+      },
+      {
+        "title": "People Analytics \u2013 (B430)",
+        "code": "B430"
+      },
+      {
+        "title": "Personal Support Worker - (C112)",
+        "code": "C112"
+      },
+      {
+        "title": "Practical Nursing Program (PN) (S121)",
+        "code": "S121"
+      },
+      {
+        "title": "Practical Nursing \u2013 (S121)",
+        "code": "S121"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees - (A108)",
+        "code": "A108"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (A108)",
+        "code": "A108"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Certificates and Diplomas Program (A109)",
+        "code": "A109"
+      },
+      {
+        "title": "Smart Building Design and Operations \u2013 (T420)",
+        "code": "T420"
+      },
+      {
+        "title": "Social Media Production \u2013 Culture-Based Creativity \u2013 (P116)",
+        "code": "P116"
+      },
+      {
+        "title": "Social Service Worker - (C119)",
+        "code": "C119"
+      },
+      {
+        "title": "Social Service Worker Program (Accelerated) \u2013 (C135)",
+        "code": "C135"
+      },
+      {
+        "title": "Social Service Worker \u2013 (C119)",
+        "code": "C119"
+      },
+      {
+        "title": "Supply Chain Management \u2013 (B429)",
+        "code": "B429"
+      },
+      {
+        "title": "Web Development - Front-End Design - (G418)",
+        "code": "G418"
+      },
+      {
+        "title": "Wireless Networking \u2013 (T411)",
+        "code": "T411"
+      }
+    ]
+  },
+  {
+    "institution": "Humber College",
+    "programs": [
+      {
+        "title": "Acupuncture - (AC311)",
+        "code": "AC311"
+      },
+      {
+        "title": "Addictions and Mental Health \u2013 (MH511)",
+        "code": "MH511"
+      },
+      {
+        "title": "Advertising & Graphic Design \u2013 (04701)",
+        "code": "4701"
+      },
+      {
+        "title": "Applied Sciences and Engineering Fundamentals \u2013 (AS111)",
+        "code": "AS111"
+      },
+      {
+        "title": "Architectural Technology - Sustainable Design \u2013 (AT311)",
+        "code": "AT311"
+      },
+      {
+        "title": "Artificial Intelligence - Integration and Governance \u2013 (AI521)",
+        "code": "AI521"
+      },
+      {
+        "title": "Artificial Intelligence with Machine Learning - (AI511)",
+        "code": "AI511"
+      },
+      {
+        "title": "Artificial Intelligence with Machine Learning \u2013 (AI511)",
+        "code": "AI511"
+      },
+      {
+        "title": "Bachelor of Behavioural Science \u2013 (BH411)",
+        "code": "BH411"
+      },
+      {
+        "title": "Bachelor of Child and Youth Care - (22231)",
+        "code": "22231"
+      },
+      {
+        "title": "Bachelor of Commerce - Accounting \u2013 (22211)",
+        "code": "22211"
+      },
+      {
+        "title": "Bachelor of Commerce - Digital Business Management \u2013 (DB411)",
+        "code": "DB411"
+      },
+      {
+        "title": "Bachelor of Commerce - Fashion Management \u2013 (22101)",
+        "code": "22101"
+      },
+      {
+        "title": "Bachelor of Commerce - Finance - (22271)",
+        "code": "22271"
+      },
+      {
+        "title": "Bachelor of Commerce - Healthcare Management - (HM411)",
+        "code": "HM411"
+      },
+      {
+        "title": "Bachelor of Commerce - Human Resources Management \u2013 (22111)",
+        "code": "22111"
+      },
+      {
+        "title": "Bachelor of Commerce - International Business - (22121)",
+        "code": "22121"
+      },
+      {
+        "title": "Bachelor of Commerce - Management Studies \u2013 (22291)",
+        "code": "22291"
+      },
+      {
+        "title": "Bachelor of Commerce - Marketing \u2013 (22281)",
+        "code": "22281"
+      },
+      {
+        "title": "Bachelor of Commerce - Supply Chain Management - (22261)",
+        "code": "22261"
+      },
+      {
+        "title": "Bachelor of Community Development \u2013 (CD411)",
+        "code": "CD411"
+      },
+      {
+        "title": "Bachelor of Creative Advertising \u2013 (22041)",
+        "code": "22041"
+      },
+      {
+        "title": "Bachelor of Creative and Professional Writing - (CP411)",
+        "code": "CP411"
+      },
+      {
+        "title": "Bachelor of Design \u2013 User Experience \u2013 (DS411)",
+        "code": "DS411"
+      },
+      {
+        "title": "Bachelor of Digital Communications \u2013 (DC411)",
+        "code": "DC411"
+      },
+      {
+        "title": "Bachelor of Engineering - Information Systems Engineering \u2013 (IS411)",
+        "code": "IS411"
+      },
+      {
+        "title": "Bachelor of Engineering - Mechatronics Engineering \u2013 (ME411)",
+        "code": "ME411"
+      },
+      {
+        "title": "Bachelor of Engineering - Sustainable Building Engineering - (BE411)",
+        "code": "BE411"
+      },
+      {
+        "title": "Bachelor of Film and Media Production \u2013 (FM411)",
+        "code": "FM411"
+      },
+      {
+        "title": "Bachelor of Health Sciences \u2013 Workplace Health and Wellness - (WW411)",
+        "code": "WW411"
+      },
+      {
+        "title": "Bachelor of Industrial Design - (22031)",
+        "code": "22031"
+      },
+      {
+        "title": "Bachelor of Interior Design \u2013 (22051)",
+        "code": "22051"
+      },
+      {
+        "title": "Bachelor of Music - (MU411)",
+        "code": "MU411"
+      },
+      {
+        "title": "Bachelor of Paralegal Studies - (PL411)",
+        "code": "PL411"
+      },
+      {
+        "title": "Bachelor of Public Relations \u2013 (22221)",
+        "code": "22221"
+      },
+      {
+        "title": "Bachelor of Science - Nursing \u2013 (NR411)",
+        "code": "NR411"
+      },
+      {
+        "title": "Bachelor of Science in Biomedical Sciences \u2013 (BM411)",
+        "code": "BM411"
+      },
+      {
+        "title": "Bachelor of Social Science - Criminal Justice - (CJ411)",
+        "code": "CJ411"
+      },
+      {
+        "title": "Bachelor of Social Science \u2013 Addictions and Mental Health - (MH411)",
+        "code": "MH411"
+      },
+      {
+        "title": "Biotechnology \u2013 (BT211)",
+        "code": "BT211"
+      },
+      {
+        "title": "Blockchain Design, Development and Integration \u2013 (BD511)",
+        "code": "BD511"
+      },
+      {
+        "title": "Building Construction Technician \u2013 (BC211)",
+        "code": "BC211"
+      },
+      {
+        "title": "Business Administration - (02511)",
+        "code": "2511"
+      },
+      {
+        "title": "Business Administration - Accounting - (02111)",
+        "code": "2111"
+      },
+      {
+        "title": "Business Insights and Analytics \u2013 (BI511)",
+        "code": "BI511"
+      },
+      {
+        "title": "Cardiovascular Technology - (CT211)",
+        "code": "CT211"
+      },
+      {
+        "title": "Carpentry and Renovation Technician \u2013 (CR211)",
+        "code": "CR211"
+      },
+      {
+        "title": "Carpentry and Renovation Techniques \u2013 (CR111)",
+        "code": "CR111"
+      },
+      {
+        "title": "Child and Youth Care - Accelerated - (CY321)",
+        "code": "CY321"
+      },
+      {
+        "title": "Child and Youth Care \u2013 (CY311)",
+        "code": "CY311"
+      },
+      {
+        "title": "Civil Engineering Technology \u2013 (03351)",
+        "code": "3351"
+      },
+      {
+        "title": "Clinical Bioinformatics \u2013 (CB511)",
+        "code": "CB511"
+      },
+      {
+        "title": "Cloud Computing \u2013 (CC511)",
+        "code": "CC511"
+      },
+      {
+        "title": "Computer Engineering Technology \u2013 (03501)",
+        "code": "3501"
+      },
+      {
+        "title": "Computer Programming - (CP221)",
+        "code": "CP221"
+      },
+      {
+        "title": "Computer Programming and Analysis - (CP311)",
+        "code": "CP311"
+      },
+      {
+        "title": "Computer Programming and Analysis \u2013 (CP311)",
+        "code": "CP311"
+      },
+      {
+        "title": "Computer Programming \u2013 (CP221)",
+        "code": "CP221"
+      },
+      {
+        "title": "Computer Systems Technician \u2013 Information Technology Infrastructure and Services - (CS211)",
+        "code": "CS211"
+      },
+      {
+        "title": "Construction Engineering Technology \u2013 (CE311)",
+        "code": "CE311"
+      },
+      {
+        "title": "Content Strategy \u2013 (CS511)",
+        "code": "CS511"
+      },
+      {
+        "title": "Culinary Skills \u2013 (14071)",
+        "code": "14071"
+      },
+      {
+        "title": "Cybersecurity and Artificial Intelligence \u2013 (CA511)",
+        "code": "CA511"
+      },
+      {
+        "title": "Data Analytics \u2013 (DA511)",
+        "code": "DA511"
+      },
+      {
+        "title": "Developmental Services Worker \u2013 (01101)",
+        "code": "1101"
+      },
+      {
+        "title": "Diagnostic Cardiac Sonography - (DC511)",
+        "code": "DC511"
+      },
+      {
+        "title": "Digital Forensics \u2013 (DF511)",
+        "code": "DF511"
+      },
+      {
+        "title": "Early Childhood Education - (07911)",
+        "code": "7911"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (07911)",
+        "code": "7911"
+      },
+      {
+        "title": "Electrical Engineering Technician - Control Systems - (30111)",
+        "code": "30111"
+      },
+      {
+        "title": "Electrical Engineering Technician - Control Systems \u2013 (30111)",
+        "code": "30111"
+      },
+      {
+        "title": "Electrical Engineering Technology - Control Systems \u2013 (30101)",
+        "code": "30101"
+      },
+      {
+        "title": "Electrical Techniques \u2013 (04021)",
+        "code": "4021"
+      },
+      {
+        "title": "Electromechanical Engineering Technician - (3070R)",
+        "code": "3070R"
+      },
+      {
+        "title": "Electromechanical Engineering Technician \u2013 (3070R)",
+        "code": "3070R"
+      },
+      {
+        "title": "Electromechanical Engineering Technology \u2013 (3071R)",
+        "code": "3071R"
+      },
+      {
+        "title": "Electronics Engineering Technician \u2013 (03531)",
+        "code": "3531"
+      },
+      {
+        "title": "Electronics Engineering Technology \u2013 (03511)",
+        "code": "3511"
+      },
+      {
+        "title": "Enterprise Software Development \u2013 (ES521)",
+        "code": "ES521"
+      },
+      {
+        "title": "Environmental Control \u2013 (EC511)",
+        "code": "EC511"
+      },
+      {
+        "title": "Exercise Science and Lifestyle Management \u2013 (14131)",
+        "code": "14131"
+      },
+      {
+        "title": "Financial Predictive Analytics - (FP511)",
+        "code": "FP511"
+      },
+      {
+        "title": "Fitness and Health Promotion \u2013 (10331)",
+        "code": "10331"
+      },
+      {
+        "title": "Food and Nutrition Management - (14151)",
+        "code": "14151"
+      },
+      {
+        "title": "Furniture and Cabinetmaking Techniques \u2013 (FC111)",
+        "code": "FC111"
+      },
+      {
+        "title": "Game Programming \u2013 (11661)",
+        "code": "11661"
+      },
+      {
+        "title": "Graphic Design for Print and Digital Media - (GR611)",
+        "code": "GR611"
+      },
+      {
+        "title": "Graphic Design \u2013 (11571)",
+        "code": "11571"
+      },
+      {
+        "title": "Health Informatics \u2013 (HI511)",
+        "code": "HI511"
+      },
+      {
+        "title": "Hearing Instrument Specialist - (HI211)",
+        "code": "HI211"
+      },
+      {
+        "title": "Heating, Refrigeration and Air Conditioning Technician - (03271)",
+        "code": "3271"
+      },
+      {
+        "title": "Heating, Refrigeration and Air Conditioning Technology \u2013 (03601)",
+        "code": "3601"
+      },
+      {
+        "title": "Industrial Woodworking Technician \u2013 (30891)",
+        "code": "30891"
+      },
+      {
+        "title": "Infant and Child Mental Health - (IC511)",
+        "code": "IC511"
+      },
+      {
+        "title": "Information Technology Solutions \u2013 (IT521)",
+        "code": "IT521"
+      },
+      {
+        "title": "Information Technology Systems Analyst \u2013 (IA511)",
+        "code": "IA511"
+      },
+      {
+        "title": "Insurance Management \u2013 Property and Casualty - (IM511)",
+        "code": "IM511"
+      },
+      {
+        "title": "Interactive Media Management \u2013 Creative Technologies \u2013 (MM511)",
+        "code": "MM511"
+      },
+      {
+        "title": "Landscape Technician \u2013 (01521)",
+        "code": "1521"
+      },
+      {
+        "title": "Marketing Management \u2013 (02241)",
+        "code": "2241"
+      },
+      {
+        "title": "Massage Therapy \u2013 (14201)",
+        "code": "14201"
+      },
+      {
+        "title": "Master of Computer Science - Cybersecurity Operations and Management \u2013 (CS711)",
+        "code": "CS711"
+      },
+      {
+        "title": "Master of Engineering in Advanced Manufacturing Engineering \u2013 (ME711)",
+        "code": "ME711"
+      },
+      {
+        "title": "Mechanical Engineering Technician \u2013 (30601)",
+        "code": "30601"
+      },
+      {
+        "title": "Mechanical Engineering Technology \u2013 (30731)",
+        "code": "30731"
+      },
+      {
+        "title": "Mechanical Techniques - Millwright \u2013 (04991)",
+        "code": "4991"
+      },
+      {
+        "title": "Media Communications \u2013 (11681)",
+        "code": "11681"
+      },
+      {
+        "title": "Medical Diagnostic Sonography \u2013 (MD311)",
+        "code": "MD311"
+      },
+      {
+        "title": "Medical Laboratory Assistant \u2013 (ML111)",
+        "code": "ML111"
+      },
+      {
+        "title": "Medical Laboratory Technology - (ML311)",
+        "code": "ML311"
+      },
+      {
+        "title": "Mobile Applications Development - (MA511)",
+        "code": "MA511"
+      },
+      {
+        "title": "Multimedia Design and Development \u2013 (11701)",
+        "code": "11701"
+      },
+      {
+        "title": "Nutrition and Healthy Lifestyle Promotion \u2013 (10231)",
+        "code": "10231"
+      },
+      {
+        "title": "Occupational Therapist Assistant & Physiotherapist Assistant \u2013 (07751)",
+        "code": "7751"
+      },
+      {
+        "title": "Personal Support Worker - (07741)",
+        "code": "7741"
+      },
+      {
+        "title": "Pharmacy Technician \u2013 (07731)",
+        "code": "7731"
+      },
+      {
+        "title": "Plumbing Techniques \u2013 (03991)",
+        "code": "3991"
+      },
+      {
+        "title": "Practical Nursing \u2013 (07041)",
+        "code": "7041"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees - (PH111)",
+        "code": "PH111"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (PH111)",
+        "code": "PH111"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Certificates and Diplomas - (PH121)",
+        "code": "PH121"
+      },
+      {
+        "title": "Professional Golf Management \u2013 Business Administration - (20231)",
+        "code": "20231"
+      },
+      {
+        "title": "Project Management - Information Technology \u2013 (PM511)",
+        "code": "PM511"
+      },
+      {
+        "title": "Respiratory Therapy - (RT311)",
+        "code": "RT311"
+      },
+      {
+        "title": "Social Service Worker \u2013 (01221)",
+        "code": "1221"
+      },
+      {
+        "title": "Supply Chain Management - (10151)",
+        "code": "10151"
+      },
+      {
+        "title": "Supply Chain Management \u2013 (10151)",
+        "code": "10151"
+      },
+      {
+        "title": "Teaching English as a Second Language (TESL) \u2013 (09841)",
+        "code": "9841"
+      },
+      {
+        "title": "Traditional Chinese Medicine Practitioner \u2013 (TC311)",
+        "code": "TC311"
+      },
+      {
+        "title": "User Experience (UX) Design \u2013 (UX511)",
+        "code": "UX511"
+      },
+      {
+        "title": "Victimology \u2013 (VI511)",
+        "code": "VI511"
+      },
+      {
+        "title": "Virtual Production \u2013 (VP511)",
+        "code": "VP511"
+      },
+      {
+        "title": "Web Design and Development \u2013 (WD611)",
+        "code": "WD611"
+      },
+      {
+        "title": "Web Development - (11491)",
+        "code": "11491"
+      },
+      {
+        "title": "Web Development \u2013 (11491)",
+        "code": "11491"
+      },
+      {
+        "title": "Welding Techniques - (WT111)",
+        "code": "WT111"
+      },
+      {
+        "title": "Welding Techniques \u2013 (WT111)",
+        "code": "WT111"
+      },
+      {
+        "title": "Wireless Telecommunications \u2013 (20331)",
+        "code": "20331"
+      },
+      {
+        "title": "eCommerce Performance and Optimization \u2013 (EP511)",
+        "code": "EP511"
+      }
+    ]
+  },
+  {
+    "institution": "International Business University",
+    "programs": [
+      {
+        "title": "BCOM in Business Management",
+        "code": "BIBM"
+      },
+      {
+        "title": "BCOM in Digital Sales and Marketing Management",
+        "code": "BCOM-DSMM"
+      },
+      {
+        "title": "BCOM in International Management and Technology",
+        "code": "BCOM-IMT"
+      },
+      {
+        "title": "General Stream MBA",
+        "code": "GSMBA"
+      },
+      {
+        "title": "Global Business Management \u2013 (66263) \u2013 (Online)",
+        "code": "66263"
+      },
+      {
+        "title": "Healthcare Management \u2013 (OHM) \u2013 (Online)",
+        "code": "OHM"
+      },
+      {
+        "title": "MBA in Digital Health and Data Analytics (DHDA)",
+        "code": "DHDA"
+      },
+      {
+        "title": "MBA in Financial and Management Analytics",
+        "code": "MBAIFMA"
+      },
+      {
+        "title": "MBA in Global Business Management (Toronto)",
+        "code": "36829"
+      },
+      {
+        "title": "MBA in Global Business Management \u2013 (36829) \u2013 (Ottawa)",
+        "code": "36829"
+      },
+      {
+        "title": "MBA in Healthcare Management",
+        "code": "MBAHM"
+      },
+      {
+        "title": "MBA in Information Systems Management",
+        "code": "MBAISM"
+      },
+      {
+        "title": "MBA in Technology, Innovation and Entrepreneurship - Toronto",
+        "code": "MBA-TIE"
+      },
+      {
+        "title": "MBA in Technology, Innovation and Entrepreneurship \u2013 (Ottawa)",
+        "code": "MBA-TIE"
+      },
+      {
+        "title": "Technology, Innovation and Entrepreneurship \u2013 (OTIE) \u2013 (Online)",
+        "code": "OTIE"
+      }
+    ]
+  },
+  {
+    "institution": "Justice Institute Of British Columbia",
+    "programs": [
+      {
+        "title": "Law Enforcement Studies (BLES)",
+        "code": "BLES"
+      },
+      {
+        "title": "Law Enforcement Studies \u2013 (LESD)",
+        "code": "LESD"
+      },
+      {
+        "title": "Law Enforcement Studies \u2013 (PBDLES)",
+        "code": "PBDLES"
+      },
+      {
+        "title": "Primary Care Paramedicine (PCP)",
+        "code": "PCP"
+      }
+    ]
+  },
+  {
+    "institution": "Lasalle College",
+    "programs": [
+      {
+        "title": "3D Production and Image Synthesis \u2013 (574.CX)",
+        "code": "574.CX"
+      },
+      {
+        "title": "Administration and Management Technology \u2013 410.G0 \u2013 Management",
+        "code": "410.G0"
+      },
+      {
+        "title": "Administration and Management Technology \u2013 Profile in Accounting (410GC)",
+        "code": "410GC"
+      },
+      {
+        "title": "Administration and Management Technology \u2013 Profile in Digital Marketing (410.GN) - Montr\u00e9al",
+        "code": "410.GN"
+      },
+      {
+        "title": "Administration and Management Technology \u2013 Profile in Electronic Commerce (E-Commerce) - (410.GE)",
+        "code": "410.GE"
+      },
+      {
+        "title": "Applied Design in Graphic Design \u2013 (BGD4)",
+        "code": "BGD4"
+      },
+      {
+        "title": "Applied Design in Interior Design \u2013 (BID2)",
+        "code": "BID2"
+      },
+      {
+        "title": "Artificial Intelligence and Machine Learning \u2013 (LEA.DQ)",
+        "code": "LEA.DQ"
+      },
+      {
+        "title": "Computer Science Technology \u2013 420.B0 \u2013 Video Game Programming",
+        "code": "420.B0"
+      },
+      {
+        "title": "Computer Science Technology \u2013 420.BP \u2013 Programming",
+        "code": "420.BP"
+      },
+      {
+        "title": "Computer Science Technology \u2013 Network and Security Management 420.BR",
+        "code": "420.BR"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (322.A1)",
+        "code": "322.A1"
+      },
+      {
+        "title": "Fashion Design \u2013 (BFD)",
+        "code": "BFD"
+      },
+      {
+        "title": "Game Programming",
+        "code": "BGP2"
+      },
+      {
+        "title": "Game and Level Design \u2013 (NTL.1H)",
+        "code": "NTL.1H"
+      },
+      {
+        "title": "Graphic Design \u2013 (NTA.1C)",
+        "code": "NTA.1C"
+      },
+      {
+        "title": "Information Technology Programmer-Analyst \u2013 (LEA.3Q)",
+        "code": "LEA.3Q"
+      },
+      {
+        "title": "Network Management \u2013 (LEA.99)",
+        "code": "LEA.99"
+      },
+      {
+        "title": "Social Media Strategy \u2013 (NWY.1X)",
+        "code": "NWY.1X"
+      },
+      {
+        "title": "Special Care Counselling \u2013 (351.A1)",
+        "code": "351.A1"
+      },
+      {
+        "title": "Transportation Logistics \u2013 (LCA.5G)",
+        "code": "LCA.5G"
+      }
+    ]
+  },
+  {
+    "institution": "Niagara College",
+    "programs": [
+      {
+        "title": "Addictions and Mental Health \u2013 (0292)",
+        "code": "292"
+      },
+      {
+        "title": "Business (Online) \u2013 (1470)",
+        "code": "1470"
+      },
+      {
+        "title": "Business Administration \u2013 Supply Chain and Operations Management (Co-op) \u2013 (0490)",
+        "code": "490"
+      },
+      {
+        "title": "Child and Youth Care \u2013 (0169)",
+        "code": "169"
+      },
+      {
+        "title": "Civil Engineering Technician - (0760)",
+        "code": "760"
+      },
+      {
+        "title": "Culinary Innovation and Food Technology (Co-op) \u2013 (P0464)",
+        "code": "P0464"
+      },
+      {
+        "title": "Culinary Skills \u2013 (0454)",
+        "code": "454"
+      },
+      {
+        "title": "Cybersecurity - (0456)",
+        "code": "456"
+      },
+      {
+        "title": "Data Analytics \u2013 (P0902)",
+        "code": "P0902"
+      },
+      {
+        "title": "Dental Office Administration \u2013 (1151)",
+        "code": "1151"
+      },
+      {
+        "title": "Early Childhood Education \u2013 Resource Consulting - (1220)",
+        "code": "1220"
+      },
+      {
+        "title": "Electrical Engineering Technology (Co-op) \u2013 (0707)",
+        "code": "707"
+      },
+      {
+        "title": "Environmental Technician (Co-op) \u2013 (0736)",
+        "code": "736"
+      },
+      {
+        "title": "Game Development - (0441)",
+        "code": "441"
+      },
+      {
+        "title": "General Arts and Science - (1800)",
+        "code": "1800"
+      },
+      {
+        "title": "General Arts and Science \u2013 College Exploration (Online) \u2013 (1810)",
+        "code": "1810"
+      },
+      {
+        "title": "Graphic Design \u2013 (P0177)",
+        "code": "P0177"
+      },
+      {
+        "title": "Honours Bachelor of Business Administration (Hospitality) - (6000)",
+        "code": "6000"
+      },
+      {
+        "title": "Honours Bachelor of Business Administration (Human Resources) \u2013 (6003)",
+        "code": "6003"
+      },
+      {
+        "title": "Occupational Therapist Assistant and Physiotherapist Assistant \u2013 (0195)",
+        "code": "195"
+      },
+      {
+        "title": "Office Administration \u2013 General - (1431)",
+        "code": "1431"
+      },
+      {
+        "title": "Photonics Engineering Technician - (P0750)",
+        "code": "P0750"
+      },
+      {
+        "title": "Photonics Engineering Technology \u2013 (P0751)",
+        "code": "P0751"
+      },
+      {
+        "title": "Pre-Community Services (Online) \u2013 (1819)",
+        "code": "1819"
+      },
+      {
+        "title": "Pre-Health Sciences \u2013 Pathway to Advanced Diplomas and Degrees (Online) \u2013 (1851)",
+        "code": "1851"
+      },
+      {
+        "title": "Pre-Health Sciences \u2013 Pathway to Certificates and Diplomas (Online) - (1850)",
+        "code": "1850"
+      },
+      {
+        "title": "Professional Butchery Techniques \u2013 (0419)",
+        "code": "419"
+      },
+      {
+        "title": "Project Management \u2013 (1499)",
+        "code": "1499"
+      },
+      {
+        "title": "Social Media Management \u2013 (P0478)",
+        "code": "P0478"
+      },
+      {
+        "title": "Social Service Worker - (0123)",
+        "code": "123"
+      },
+      {
+        "title": "Teaching English as a Second Language - (0305)",
+        "code": "305"
+      },
+      {
+        "title": "Winery and Viticulture Technician \u2013 (0738)",
+        "code": "738"
+      }
+    ]
+  },
+  {
+    "institution": "Norquest College",
+    "programs": [
+      {
+        "title": "Accounting Technician \u2013 (ATEC)",
+        "code": "ATEC"
+      },
+      {
+        "title": "Addictions Recovery Practitioner \u2013 (MNL-ARP)",
+        "code": "MNL-ARP"
+      },
+      {
+        "title": "Arts and Sciences Diploma \u2013 (MNL-ARTS)",
+        "code": "MNL-ARTS"
+      },
+      {
+        "title": "Biological, Life, and Health Sciences Specialization",
+        "code": "ARTS-BLHS"
+      },
+      {
+        "title": "Child and Youth Care - (CYC)",
+        "code": "CYC"
+      },
+      {
+        "title": "Digital Design \u2013 (DGD)",
+        "code": "DGD"
+      },
+      {
+        "title": "Digital Marketing \u2013 (DGM)",
+        "code": "DGM"
+      },
+      {
+        "title": "Disability Studies \u2013 (DSD)",
+        "code": "DSD"
+      },
+      {
+        "title": "EAL Intensive \u2013 (ESLINT)",
+        "code": "ESLINT"
+      },
+      {
+        "title": "Early Learning and Child Care \u2013 certificate - (ELCC)",
+        "code": "ELCC"
+      },
+      {
+        "title": "Early Learning and Child Care \u2013 diploma - (MNL-ELCD)",
+        "code": "MNL-ELCD"
+      },
+      {
+        "title": "Educational Assistant - (EA)",
+        "code": "EA"
+      },
+      {
+        "title": "Engineering University Transfer Certificate \u2013 (EUC)",
+        "code": "EUC"
+      },
+      {
+        "title": "Environmental Technician \u2013 (ET)",
+        "code": "ET"
+      },
+      {
+        "title": "Health Care Aide",
+        "code": "HCA"
+      },
+      {
+        "title": "Interdisciplinary Therapy Assistant \u2013 (ITA)",
+        "code": "ITA"
+      },
+      {
+        "title": "Machine Learning Analyst \u2013 (MLA)",
+        "code": "MLA"
+      },
+      {
+        "title": "Mental Health Recovery Practitioner \u2013 (MHRP)",
+        "code": "MHRP"
+      },
+      {
+        "title": "Mental Health and Addiction Support Worker \u2013 (MHSD)",
+        "code": "MHSD"
+      },
+      {
+        "title": "Pharmacy Technician (In-person) - (PT)",
+        "code": "PT"
+      },
+      {
+        "title": "Practical Nurse Diploma for Internationally Educated Nurses \u2013 (PNDIEN)",
+        "code": "PNDIEN"
+      },
+      {
+        "title": "Practical Nurse \u2013 (PNFT)",
+        "code": "PNFT"
+      },
+      {
+        "title": "Settlement Studies - (SSD)",
+        "code": "SSD"
+      },
+      {
+        "title": "Social Work \u2013 (SW)",
+        "code": "SW"
+      },
+      {
+        "title": "Sustainability Coordinator \u2013 (SUST)",
+        "code": "SUST"
+      },
+      {
+        "title": "Therapeutic Recreation - (TRD)",
+        "code": "TRD"
+      }
+    ]
+  },
+  {
+    "institution": "Northern Lights College",
+    "programs": [
+      {
+        "title": "Aircraft Maintenance Technician Diploma",
+        "code": "AMT"
+      },
+      {
+        "title": "Applied Business Technology (Administrative Assistant) Certificate",
+        "code": "ABTAAC"
+      },
+      {
+        "title": "Applied Business Technology (Financial Assistant) Certificate",
+        "code": "ABTFAC"
+      },
+      {
+        "title": "Applied Business Technology (Office Assistant) Certificate",
+        "code": "ABTOAC"
+      },
+      {
+        "title": "British Columbia Adult Graduation Diploma",
+        "code": "BCAGD"
+      },
+      {
+        "title": "Business Management Diploma",
+        "code": "BMD"
+      },
+      {
+        "title": "Career and College Preparation \u2013 Advanced Level Certificate",
+        "code": "CCPALC"
+      },
+      {
+        "title": "Early Childhood Education and Care \u2013 Inclusive Education Diploma",
+        "code": "ECECIED"
+      },
+      {
+        "title": "Early Childhood Education and Care \u2013 Infant/Toddler Education Diploma",
+        "code": "ECECITED"
+      },
+      {
+        "title": "Education Assistant Diploma",
+        "code": "EdAD"
+      },
+      {
+        "title": "Environmental Restoration Diploma",
+        "code": "ERD"
+      },
+      {
+        "title": "Executive Assistant Diploma",
+        "code": "EAD"
+      },
+      {
+        "title": "Health Care Assistant Certificate",
+        "code": "HCA"
+      },
+      {
+        "title": "Heavy Mechanical Trades Foundation Certificate",
+        "code": "HMTFC"
+      },
+      {
+        "title": "Heavy Mechanical Trades Foundation Certificate \u2013 Fort St. John",
+        "code": "HMTFC"
+      },
+      {
+        "title": "Indigenous Human Service Worker Certificate",
+        "code": "IHSWC"
+      },
+      {
+        "title": "Interactive and Digital Technologies Diploma",
+        "code": "IDTD"
+      },
+      {
+        "title": "Interprofessional Mental Health and Addictions Advanced Certificate",
+        "code": "IMHAAC"
+      },
+      {
+        "title": "Millwright Foundations Certificate",
+        "code": "MFC"
+      },
+      {
+        "title": "Post-Degree Diploma in Environmental Management \u2013 (37563) \u2013 Dawson Creek",
+        "code": "PDDEMDC"
+      },
+      {
+        "title": "Post-Degree Diploma in Environmental Management \u2013 (37563) \u2013 Fort St. John",
+        "code": "PDDEM"
+      },
+      {
+        "title": "Post-Degree Diploma in Information Resources Management \u2013 (PDDIRM) \u2013 Dawson Creek",
+        "code": "PDDIRMDC"
+      },
+      {
+        "title": "Post-Degree Diploma in Information Resources Management \u2013 (PDDIRM) \u2013 Fort St. John",
+        "code": "PDDIRM"
+      },
+      {
+        "title": "Post-Degree Diploma in Management Science \u2013 (PDDMS) \u2013 Dawson Creek",
+        "code": "PDDMSDC"
+      },
+      {
+        "title": "Post-Degree Diploma in Management Science \u2013 (PDDMS) \u2013 Fort St. John",
+        "code": "PDDMS"
+      },
+      {
+        "title": "Practical Nursing Diploma",
+        "code": "PND"
+      },
+      {
+        "title": "Professional Cook 1 Institutional Entry Certificate",
+        "code": "PC"
+      },
+      {
+        "title": "Social Services Worker Diploma (Dawson Creek)",
+        "code": "SSWD"
+      },
+      {
+        "title": "Welder Foundation Certificate",
+        "code": "WFC"
+      }
+    ]
+  },
+  {
+    "institution": "Saskatchewan Polytechnic",
+    "programs": [
+      {
+        "title": "Artificial Intelligence and Innovation \u2013 (AIIPGDIPFB)",
+        "code": "AIIPGDIPFB"
+      },
+      {
+        "title": "Bachelor of Construction Management \u2013 (CMBACH)",
+        "code": "CMBACH"
+      },
+      {
+        "title": "Building Systems Technician \u2013 (BSTNMMCRT)",
+        "code": "BSTNMMCRT"
+      },
+      {
+        "title": "Business Information Systems \u2013 (BISDPC)",
+        "code": "BISDPC"
+      },
+      {
+        "title": "Carpentry \u2013 (CARPCRT) \u2013 (Prince Albert)",
+        "code": "CARPCRT"
+      },
+      {
+        "title": "Carpentry \u2013 (CARPCRT) \u2013 (Saskatoon)",
+        "code": "CARPCRT"
+      },
+      {
+        "title": "Carpentry \u2013 (Prince Albert Campus)",
+        "code": "CARPCRT"
+      },
+      {
+        "title": "Chemical Technology \u2013 (CTDP)",
+        "code": "CTDP"
+      },
+      {
+        "title": "Child and Youth Care - (CYCDP)",
+        "code": "CYCDP"
+      },
+      {
+        "title": "Civil Engineering Technologies (Civil Construction option) \u2013 (CVLDIPFT)",
+        "code": "CVLDIPFT"
+      },
+      {
+        "title": "Cloud Computing and Blockchain \u2013 (CCBCPGCERT)",
+        "code": "CCBCPGCERT"
+      },
+      {
+        "title": "Commercial Pilot \u2013 (CPILDP)",
+        "code": "CPILDP"
+      },
+      {
+        "title": "Computer Automated Systems Technician - (CASDP)",
+        "code": "CASDP"
+      },
+      {
+        "title": "Computer Engineering Technology \u2013 (CENG_DPC)",
+        "code": "CENG_DPC"
+      },
+      {
+        "title": "Continuing Care Assistant \u2013 (CCANUCRT)",
+        "code": "CCANUCRT"
+      },
+      {
+        "title": "Culinary Arts \n\n\u2013 (CADIPFB)",
+        "code": "CADIPFB"
+      },
+      {
+        "title": "Cyber Security \u2013 (CSECPGCERT)",
+        "code": "CSECPGCERT"
+      },
+      {
+        "title": "Digital Marketing \u2013 (DMKTDIPFB)",
+        "code": "DMKTDIPFB"
+      },
+      {
+        "title": "Disability Support Professional \u2013 (DSPCERTFN)",
+        "code": "DSPCERTFN"
+      },
+      {
+        "title": "Educational Assistant \u2013 (EDACRT)",
+        "code": "EDACRT"
+      },
+      {
+        "title": "Electrical Engineering Technology \u2013 (ELIEDPC)",
+        "code": "ELIEDPC"
+      },
+      {
+        "title": "Electronic Systems Engineering Technology - (ESEDIPFT)",
+        "code": "ESEDIPFT"
+      },
+      {
+        "title": "Environmental Engineering Technology \u2013 (ENVRDPC)",
+        "code": "ENVRDPC"
+      },
+      {
+        "title": "Fabricator - Welder \u2013 (FWLDCRT)",
+        "code": "FWLDCRT"
+      },
+      {
+        "title": "Food and Nutrition Management - (FNMDP)",
+        "code": "FNMDP"
+      },
+      {
+        "title": "Geographic Information Science \u2013 (GEISCRT)",
+        "code": "GEISCRT"
+      },
+      {
+        "title": "Graphic Communications \u2013 (GCDP)",
+        "code": "GCDP"
+      },
+      {
+        "title": "Health Care Cook \u2013 (HCCCRTX)",
+        "code": "HCCCRTX"
+      },
+      {
+        "title": "Health Information Management \u2013 (HINFDIPFN)",
+        "code": "HINFDIPFN"
+      },
+      {
+        "title": "Heavy Equipment and Truck and Transport Technician \u2013 (HETTCRT)",
+        "code": "HETTCRT"
+      },
+      {
+        "title": "Industrial Mechanics \u2013 (IMCRT)",
+        "code": "IMCRT"
+      },
+      {
+        "title": "Information Technology Project Management \u2013 (ITPMPGCERTFB)",
+        "code": "ITPMPGCERTFB"
+      },
+      {
+        "title": "Integrated Resource Management \u2013 (IRMDP)",
+        "code": "IRMDP"
+      },
+      {
+        "title": "Interactive Design and Technology \u2013 (IDTDP)",
+        "code": "IDTDP"
+      },
+      {
+        "title": "Library and Information Technology \u2013 (LITDP)",
+        "code": "LITDP"
+      },
+      {
+        "title": "Logistics and Supply Chain Management \u2013 (LSCMPGCERTFB)",
+        "code": "LSCMPGCERTFB"
+      },
+      {
+        "title": "Machinist \u2013 (MACHCRT)",
+        "code": "MACHCRT"
+      },
+      {
+        "title": "Mechanical Engineering Technology \u2013 (METDP)",
+        "code": "METDP"
+      },
+      {
+        "title": "Media Production \u2013 (MEPDIP)",
+        "code": "MEPDIP"
+      },
+      {
+        "title": "Occupational Health and Safety \u2013 (OHSCRT)",
+        "code": "OHSCRT"
+      },
+      {
+        "title": "Practical Nursing \u2013 (PNGDIP)",
+        "code": "PNGDIP"
+      },
+      {
+        "title": "Recreation and Tourism Management \u2013 (RTMDP)",
+        "code": "RTMDP"
+      },
+      {
+        "title": "Registered Nursing Bridging Program for Internationally Educated Nurses \u2013 (IENBCRT)",
+        "code": "IENBCRT"
+      },
+      {
+        "title": "Resource and Environmental Law \u2013 (RELDP)",
+        "code": "RELDP"
+      },
+      {
+        "title": "Technology Management \u2013 (TMGTPGCERT)",
+        "code": "TMGTPGCERT"
+      }
+    ]
+  },
+  {
+    "institution": "Seneca College",
+    "programs": [
+      {
+        "title": "Artificial Intelligence - (AIG)",
+        "code": "AIG"
+      },
+      {
+        "title": "Aviation Safety - (ASE)",
+        "code": "ASE"
+      },
+      {
+        "title": "Bachelor of Business Administration \u2013 (BBA)",
+        "code": "BBA"
+      },
+      {
+        "title": "Bachelor of Computer Science \u2013 (BCMS)",
+        "code": "BCMS"
+      },
+      {
+        "title": "Bachelor of Engineering (Software Engineering) - (BSA)",
+        "code": "BSA"
+      },
+      {
+        "title": "Bachelor of Science \u2013 Cosmetic Science \u2013 (BSCS)",
+        "code": "BSCS"
+      },
+      {
+        "title": "Behavioural Sciences \u2013 (BHS)",
+        "code": "BHS"
+      },
+      {
+        "title": "Biotechnology \u2013 Advanced \u2013 (BTA)",
+        "code": "BTA"
+      },
+      {
+        "title": "Building Systems Engineering Technician \u2013 (BTS)",
+        "code": "BTS"
+      },
+      {
+        "title": "Business Administration \u2013 Financial Planning - (BAF)",
+        "code": "BAF"
+      },
+      {
+        "title": "Business Administration \u2013 Human Resources - (BHR)",
+        "code": "BHR"
+      },
+      {
+        "title": "Business Information Technology \u2013 (BTT)",
+        "code": "BTT"
+      },
+      {
+        "title": "Business \u2013 Insurance - (BIN)",
+        "code": "BIN"
+      },
+      {
+        "title": "Business \u2013 Supply Chain & Operations \u2013 (SCO)",
+        "code": "SCO"
+      },
+      {
+        "title": "Chemical Laboratory Technology \u2013 Pharmaceutical \u2013 (CLP)",
+        "code": "CLP"
+      },
+      {
+        "title": "Child & Youth Care \u2013 (CYC)",
+        "code": "CYC"
+      },
+      {
+        "title": "Civil Engineering Technology \u2013 (CVT)",
+        "code": "CVT"
+      },
+      {
+        "title": "Cloud Architecture & Administration \u2013 (CAA)",
+        "code": "CAA"
+      },
+      {
+        "title": "Computer Engineering Technology \u2013 (ECT)",
+        "code": "ECT"
+      },
+      {
+        "title": "Computer Programming & Analysis \u2013 (CPA)",
+        "code": "CPA"
+      },
+      {
+        "title": "Computer Programming \u2013 (CPP)",
+        "code": "CPP"
+      },
+      {
+        "title": "Computer Systems Technology - (CTY)",
+        "code": "CTY"
+      },
+      {
+        "title": "Cybersecurity & Threat Management \u2013 (CYT)",
+        "code": "CYT"
+      },
+      {
+        "title": "Database Application Developer \u2013 (DAD)",
+        "code": "DAD"
+      },
+      {
+        "title": "Early Childhood Education (Accelerated) \u2013 (ECYA)",
+        "code": "ECYA"
+      },
+      {
+        "title": "Electromechanical Engineering Technology \u2013 Automation \u2013 (EMA)",
+        "code": "EMA"
+      },
+      {
+        "title": "Electronics Engineering Technician \u2013 (EEN)",
+        "code": "EEN"
+      },
+      {
+        "title": "Electronics Engineering Technology \u2013 (EET)",
+        "code": "EET"
+      },
+      {
+        "title": "Environmental Landscape Management \u2013 (EVL)",
+        "code": "EVL"
+      },
+      {
+        "title": "Environmental Technician \u2013 (ETM)",
+        "code": "ETM"
+      },
+      {
+        "title": "Fitness & Health Promotion \u2013 (FHP)",
+        "code": "FHP"
+      },
+      {
+        "title": "Honours Bachelor of Aviation Technology \u2013 (FPR)",
+        "code": "FPR"
+      },
+      {
+        "title": "Honours Bachelor of Behavioural Psychology - (BBP)",
+        "code": "BBP"
+      },
+      {
+        "title": "Honours Bachelor of Child Development \u2013 (BCD)",
+        "code": "BCD"
+      },
+      {
+        "title": "Honours Bachelor of Commerce \u2013 Accounting & Finance - (BACF)",
+        "code": "BACF"
+      },
+      {
+        "title": "Honours Bachelor of Commerce \u2013 Accounting & Finance \u2013 (BACF)",
+        "code": "BACF"
+      },
+      {
+        "title": "Honours Bachelor of Commerce \u2013 Business Management - (BBM)",
+        "code": "BBM"
+      },
+      {
+        "title": "Honours Bachelor of Commerce \u2013 Business Technology Management \u2013 (BTM)",
+        "code": "BTM"
+      },
+      {
+        "title": "Honours Bachelor of Communications & Media \u2013 (BCMM)",
+        "code": "BCMM"
+      },
+      {
+        "title": "Honours Bachelor of Crime & Intelligence Analysis \u2013 (CIA)",
+        "code": "CIA"
+      },
+      {
+        "title": "Honours Bachelor of Data Science and Analytics \u2013 (DSA)",
+        "code": "DSA"
+      },
+      {
+        "title": "Honours Bachelor of Design in Interactive Media \u2013 (BDI)",
+        "code": "BDI"
+      },
+      {
+        "title": "Honours Bachelor of Information Technology Design and Management \u2013 (BDM)",
+        "code": "BDM"
+      },
+      {
+        "title": "Honours Bachelor of Information Technology \u2013 Cybersecurity \u2013 (IFS)",
+        "code": "IFS"
+      },
+      {
+        "title": "Honours Bachelor of Interdisciplinary Studies - (INS)",
+        "code": "INS"
+      },
+      {
+        "title": "Honours Bachelor of Mental Health and Addiction \u2013 (BMHA)",
+        "code": "BMHA"
+      },
+      {
+        "title": "Honours Bachelor of Science \u2013 Biotechnology - (BBTA)",
+        "code": "BBTA"
+      },
+      {
+        "title": "Honours Bachelor of Science \u2013 Nursing - (BSN)",
+        "code": "BSN"
+      },
+      {
+        "title": "Honours Bachelor of Technology \u2013 Software Development \u2013 (BSD)",
+        "code": "BSD"
+      },
+      {
+        "title": "Honours Bachelor of Therapeutic Recreation \u2013 (DTR)",
+        "code": "DTR"
+      },
+      {
+        "title": "Infant & Early Child Mental Health - (IMH)",
+        "code": "IMH"
+      },
+      {
+        "title": "Interactive Media Design \u2013 (INM)",
+        "code": "INM"
+      },
+      {
+        "title": "International Transportation & Customs - (TCS)",
+        "code": "TCS"
+      },
+      {
+        "title": "Master of Artificial Intelligence Design & Development - (MAI)",
+        "code": "MAI"
+      },
+      {
+        "title": "Mechanical Engineering Technician (Tool Design) \u2013 (MATD)",
+        "code": "MATD"
+      },
+      {
+        "title": "Mechanical Engineering Technology \u2013 Building Sciences \u2013 (MBT)",
+        "code": "MBT"
+      },
+      {
+        "title": "Mental Health Intervention \u2013 (MHI)",
+        "code": "MHI"
+      },
+      {
+        "title": "Occupational Therapist Assistant and Physiotherapist Assistant \u2013 (OTP)",
+        "code": "OTP"
+      },
+      {
+        "title": "Practical Nursing \u2013 (PND)",
+        "code": "PND"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas & Degrees - (PHS)",
+        "code": "PHS"
+      },
+      {
+        "title": "Project Management \u2013 Environmental - (PME)",
+        "code": "PME"
+      },
+      {
+        "title": "Project Management \u2013 Information Technology \u2013 (PMC)",
+        "code": "PMC"
+      },
+      {
+        "title": "Social Service Worker \u2013 Gerontology - (SSWG)",
+        "code": "SSWG"
+      },
+      {
+        "title": "Social Service Worker \u2013 Immigrants and Refugees (Accelerated) - (SSIA)",
+        "code": "SSIA"
+      },
+      {
+        "title": "Social Service Worker \u2013 Immigrants and Refugees \u2013 (SSWI)",
+        "code": "SSWI"
+      },
+      {
+        "title": "Sustainable Urban & Transportation Planning \u2013 (UBS)",
+        "code": "UBS"
+      },
+      {
+        "title": "Veterinary Assistant \u2013 (VTA)",
+        "code": "VTA"
+      },
+      {
+        "title": "Veterinary Technician \u2013 (VTE)",
+        "code": "VTE"
+      },
+      {
+        "title": "Workplace Safety & Prevention \u2013 (WSP)",
+        "code": "WSP"
+      }
+    ]
+  },
+  {
+    "institution": "Sheridan College",
+    "programs": [
+      {
+        "title": "Addictions and Mental Health \u2013 (PADMH)",
+        "code": "PADMH"
+      },
+      {
+        "title": "Animal Care \u2013 (PANCR)",
+        "code": "PANCR"
+      },
+      {
+        "title": "Applied Data Analytics and Visualization \u2013 (PDAVN)",
+        "code": "PDAVN"
+      },
+      {
+        "title": "Applied Data Analytics and Visualization \u2013 (PDAVN) \u2013 (Optional CO-OP)",
+        "code": "PDAVN"
+      },
+      {
+        "title": "Architectural Technician \u2013 Sustainable Design \u2013 (PATCN)",
+        "code": "PATCN"
+      },
+      {
+        "title": "Artificial Intelligence Development and Applications \u2013 (PAIDA)",
+        "code": "PAIDA"
+      },
+      {
+        "title": "Artificial Intelligence Development and Applications \u2013 (PAIDR) \u2013 (Optional CO-OP)",
+        "code": "PAIDA"
+      },
+      {
+        "title": "Child and Youth Care \u2013 (PCYCD)",
+        "code": "PCYCD"
+      },
+      {
+        "title": "Child and Youth Care \u2013 (PCYCD) \u2013 (Trafalgar Campus)",
+        "code": "PCYCD"
+      },
+      {
+        "title": "Clinical Kinesiology \u2013 (PCKNS)",
+        "code": "PCKNS"
+      },
+      {
+        "title": "Cloud Security \u2013 (PCLSE)",
+        "code": "PCLSE"
+      },
+      {
+        "title": "Computer Engineering Technician - (PCPEN)",
+        "code": "PCPEN"
+      },
+      {
+        "title": "Computer Programming - (PCPRG)",
+        "code": "PCPRG"
+      },
+      {
+        "title": "Computer Programming \u2013 PCPRG  \u2013 Trafalgar Campus Oakville",
+        "code": "PCPRG"
+      },
+      {
+        "title": "Computer Systems Technician \u2013 Cyber Security \u2013 (PCSCL)",
+        "code": "PCSCL"
+      },
+      {
+        "title": "Computer Systems Technician \u2013 Information Technology Infrastructure and Services \u2013 (PSITC)",
+        "code": "PSITC"
+      },
+      {
+        "title": "Computer Systems Technology \u2013 Analysis and Design - (PSISC)",
+        "code": "PSISC"
+      },
+      {
+        "title": "Computer Systems Technology \u2013 Analysis and Design \u2013 (PSISC) \u2013 Trafalgar Campus (Oakville)",
+        "code": "PSISC"
+      },
+      {
+        "title": "Computer Systems Technology \u2013 Software Development and Network Engineering \u2013 (PCSSC)",
+        "code": "PCSSC"
+      },
+      {
+        "title": "Computer Systems Technology \u2013 Software Development and Network Engineering \u2013 (PCSSC) - Trafalgar Campus \u2013 (Trafalgar)",
+        "code": "PCSSC"
+      },
+      {
+        "title": "Construction Techniques \u2013 (PCOTQ)",
+        "code": "PCOTQ"
+      },
+      {
+        "title": "Diagnostic Imaging Technology \u2013 Magnetic Resonance Imaging (MRI) - (PDIMR)",
+        "code": "PDIMR"
+      },
+      {
+        "title": "Digital Product Design \u2013 (PDIGP)",
+        "code": "PDIGP"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (PECED)",
+        "code": "PECED"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (PECED) \u2013 Trafalgar Campus (Oakville)",
+        "code": "PECED"
+      },
+      {
+        "title": "Early Childhood Education \u2013 Intensive \u2013 (PECEI)",
+        "code": "PECEI"
+      },
+      {
+        "title": "Educational Support \u2013 (PCESD)",
+        "code": "PCESD"
+      },
+      {
+        "title": "Electrical Engineering Technician \u2013 (PETEN)",
+        "code": "PETEN"
+      },
+      {
+        "title": "Electrical Techniques \u2013 (PETEQ)",
+        "code": "PETEQ"
+      },
+      {
+        "title": "Game Development \u2013 Advanced Programming \u2013 (PGDAP)",
+        "code": "PGDAP"
+      },
+      {
+        "title": "Graphic Design \u2013 Creative Practice - (PGRPP)",
+        "code": "PGRPP"
+      },
+      {
+        "title": "Graphic Design \u2013 Creative Strategies \u2013 (PGRPS)",
+        "code": "PGRPS"
+      },
+      {
+        "title": "Healthcare Administration and Service Management \u2013 (PHCAM)",
+        "code": "PHCAM"
+      },
+      {
+        "title": "Healthcare Administration and Service Management \u2013 (PHCAR) \u2013 (1 year)",
+        "code": "PHCAM"
+      },
+      {
+        "title": "Honours Bachelor of 3D Animation and Emerging Technologies \u2013 (PBCAV)",
+        "code": "PBCAV"
+      },
+      {
+        "title": "Honours Bachelor of Animation - (PBAAA)",
+        "code": "PBAAA"
+      },
+      {
+        "title": "Honours Bachelor of Applied Health Sciences \u2013 Athletic Therapy \u2013 (PBAHS)",
+        "code": "PBAHS"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science",
+        "code": "PBC"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science (Mobile Computing) \u2013 (PBACS)",
+        "code": "PBACS"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science Cloud Computing",
+        "code": "PBCPCC"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science \u2013 (PBCPCC) \u2013 (Cloud Computing)",
+        "code": "PBCPCC"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science \u2013 (PBCPDA) \u2013 (Data Analytics)",
+        "code": "PBCPDA"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science \u2013 (PBCPDE) \u2013 (Data Engineering)",
+        "code": "PBCPDE"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science \u2013 (PBCPGE) \u2013 (Game Engineering)",
+        "code": "PBCPGE"
+      },
+      {
+        "title": "Honours Bachelor of Computer Science \u2013 Artificial Intelligence \u2013 (PBCPAI)",
+        "code": "PBCPAI"
+      },
+      {
+        "title": "Honours Bachelor of Craft and Design (Ceramics) \u2013 (PBCRDC)",
+        "code": "PBCRDC"
+      },
+      {
+        "title": "Honours Bachelor of Craft and Design (Furniture) \u2013 (PBCRDF)",
+        "code": "PBCRDF"
+      },
+      {
+        "title": "Honours Bachelor of Craft and Design (Glass) \u2013 (PBCRDG)",
+        "code": "PBCRDG"
+      },
+      {
+        "title": "Honours Bachelor of Engineering (Electrical Engineering) \u2013 (PBENE)",
+        "code": "PBENE"
+      },
+      {
+        "title": "Honours Bachelor of Engineering (Mechanical Engineering) \u2013 (PBENM)",
+        "code": "PBENM"
+      },
+      {
+        "title": "Honours Bachelor of Experiential Design \u2013 (PBXDN)",
+        "code": "PBXDN"
+      },
+      {
+        "title": "Honours Bachelor of Film and Television \u2013 (PBFTV)",
+        "code": "PBFTV"
+      },
+      {
+        "title": "Honours Bachelor of Game Design \u2013 (PBGDS)",
+        "code": "PBGDS"
+      },
+      {
+        "title": "Honours Bachelor of Health Sciences \u2013 Kinesiology and Health Promotion - (PBHSK)",
+        "code": "PBHSK"
+      },
+      {
+        "title": "Honours Bachelor of Illustration \u2013 (PBAAI)",
+        "code": "PBAAI"
+      },
+      {
+        "title": "Honours Bachelor of Information Sciences (Cyber Security) \u2013 (PBAIS) - Davis Campus",
+        "code": "PBAIS"
+      },
+      {
+        "title": "Honours Bachelor of Information Sciences (Cyber Security) \u2013 (PBAIS) \u2013 Trafalgar Campus (Oakville)",
+        "code": "PBAIS"
+      },
+      {
+        "title": "Honours Bachelor of Interaction Design - (PBIDS)",
+        "code": "PBIDS"
+      },
+      {
+        "title": "Honours Bachelor of Interior Design \u2013 (PBAID)",
+        "code": "PBAID"
+      },
+      {
+        "title": "Honours Bachelor of Music Theatre Performance - (PBAMT)",
+        "code": "PBAMT"
+      },
+      {
+        "title": "Honours Bachelor of Science \u2013 Nursing \u2013 (PBNSG)",
+        "code": "PBNSG"
+      },
+      {
+        "title": "Honours Bachelor of Science \u2013 Osteopathy \u2013 (PBHSO)",
+        "code": "PBHSO"
+      },
+      {
+        "title": "Honours Bachelor of Social and Community Development \u2013 (PBSCD)",
+        "code": "PBSCD"
+      },
+      {
+        "title": "Interactive Media Management \u2013 Digital Design \u2013 (PINME)",
+        "code": "PINME"
+      },
+      {
+        "title": "Internet of Things and Machine Intelligence \u2013 (PIOTM)",
+        "code": "PIOTM"
+      },
+      {
+        "title": "Massage Therapy \u2013 (PMSSR)",
+        "code": "PMSSR"
+      },
+      {
+        "title": "Master of Animation, Games, and Immersive Experiences",
+        "code": "PMAGI2"
+      },
+      {
+        "title": "Mechanical Technician \u2013 CNC & Precision Machining \u2013 (PMTTM)",
+        "code": "PMTTM"
+      },
+      {
+        "title": "Mechanical Technician \u2013 Industrial Millwright - (PMTIM)",
+        "code": "PMTIM"
+      },
+      {
+        "title": "Mechanical Techniques \u2013 CNC & Precision Machining - (PMTTD)",
+        "code": "PMTTD"
+      },
+      {
+        "title": "Mechanical Techniques \u2013 Plumbing - (PLUMB)",
+        "code": "PLUMB"
+      },
+      {
+        "title": "Network Engineering Technology \u2013 (PICTC)",
+        "code": "PICTC"
+      },
+      {
+        "title": "Nutrition and Food Service Management - (PNFSM) \u2013 16-month format (January start))",
+        "code": "PNFSM"
+      },
+      {
+        "title": "Nutrition and Food Service Management \u2013 (PNFSM)",
+        "code": "PNFSM"
+      },
+      {
+        "title": "Operational Technology Cybersecurity \u2013 (POTCR)",
+        "code": "POTCR"
+      },
+      {
+        "title": "Operational Technology Cybersecurity \u2013 (POTCR) \u2013 (1 year)",
+        "code": "POTCR"
+      },
+      {
+        "title": "Personal Support Worker \u2013 (PPSWK)",
+        "code": "PPSWK"
+      },
+      {
+        "title": "Personal Support Worker \u2013 (PPSWK) \u2013 Village of Erin Meadows (Schlegel Villages) (Mississauga)",
+        "code": "PPSWK"
+      },
+      {
+        "title": "Pharmacy Technician \u2013 (PPHTO)",
+        "code": "PPHTO"
+      },
+      {
+        "title": "Plumbing Technician \u2013 (PLUMN)",
+        "code": "PLUMN"
+      },
+      {
+        "title": "Practical Nursing - (PPNSG)",
+        "code": "PPNSG"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (PPHSS)",
+        "code": "PPHSS"
+      },
+      {
+        "title": "Project Management \u2013 Information Technology \u2013 (PPMIR)",
+        "code": "PPMIR"
+      },
+      {
+        "title": "Project Management \u2013 Information Technology \u2013 PPMIR \u2013 Optional CO-OP 1 Year",
+        "code": "PPMIR"
+      },
+      {
+        "title": "Social Service Worker - (PSSWK) \u2013 Trafalgar Campus (Oakville)",
+        "code": "PSSWK"
+      },
+      {
+        "title": "Social Service Worker \u2013 (PSSWK)",
+        "code": "PSSWK"
+      },
+      {
+        "title": "Social Service Worker \u2013 Gerontology - (PSSWG)",
+        "code": "PSSWG"
+      },
+      {
+        "title": "Supply Chain Management \u2013 Logistics Automation \u2013 (PSCML)",
+        "code": "PSCML"
+      },
+      {
+        "title": "Supply Chain Management \u2013 Logistics Automation \u2013 (PSCML) \u2013 (1 year)",
+        "code": "PSCML"
+      },
+      {
+        "title": "Urban Design \u2013 (PURBN)",
+        "code": "PURBN"
+      },
+      {
+        "title": "Veterinary Technician \u2013 (PVETT)",
+        "code": "PVETT"
+      },
+      {
+        "title": "Welding Techniques \u2013 (PWLDT)",
+        "code": "PWLDT"
+      },
+      {
+        "title": "Welding and Fabrication Technician - (PWLFT)",
+        "code": "PWLFT"
+      }
+    ]
+  },
+  {
+    "institution": "St Clair College",
+    "programs": [
+      {
+        "title": "Biomedical Engineering Technology - Equipment and Devices (T755)",
+        "code": "T755"
+      },
+      {
+        "title": "Carpentry and Renovation Techniques \u2013 (T965)",
+        "code": "T965"
+      },
+      {
+        "title": "Child and Youth Care \u2013 (B992)",
+        "code": "B992"
+      },
+      {
+        "title": "Civil Engineering Technology \u2013 (T154)",
+        "code": "T154"
+      },
+      {
+        "title": "Computer Systems Technology - Networking \u2013 (T861)",
+        "code": "T861"
+      },
+      {
+        "title": "Construction Engineering Technician \u2013 (T036)",
+        "code": "T036"
+      },
+      {
+        "title": "Cybersecurity - Automobility \u2013 (T891)",
+        "code": "T891"
+      },
+      {
+        "title": "Cybersecurity Analytics - Automobility \u2013 (T895)",
+        "code": "T895"
+      },
+      {
+        "title": "Cybersecurity \u2013 (T890)",
+        "code": "T890"
+      },
+      {
+        "title": "Developmental Services Worker \u2013 (K200)",
+        "code": "K200"
+      },
+      {
+        "title": "Early Childhood Education \u2013 (K240) \u2013 (Chatham)",
+        "code": "K240"
+      },
+      {
+        "title": "Educational Support - (B899)",
+        "code": "B899"
+      },
+      {
+        "title": "Electrical Engineering Technician \u2013 (K788)",
+        "code": "K788"
+      },
+      {
+        "title": "Electrical Techniques \u2013 (T947)",
+        "code": "T947"
+      },
+      {
+        "title": "Electromechanical Engineering Technician - Robotics \u2013 (T974)",
+        "code": "T974"
+      },
+      {
+        "title": "Electromechanical Engineering Technology - Robotics \u2013 (T976)",
+        "code": "T976"
+      },
+      {
+        "title": "Fitness & Health Promotion \u2013 (H879)",
+        "code": "H879"
+      },
+      {
+        "title": "Graphic Design \u2013 (T809)",
+        "code": "T809"
+      },
+      {
+        "title": "Greenhouse Technician - (T865)",
+        "code": "T865"
+      },
+      {
+        "title": "Heating, Refrigeration & Air Conditioning Technician \u2013 (T207)",
+        "code": "T207"
+      },
+      {
+        "title": "Honours Bachelor of Applied Arts in Social Justice & Legal Studies \u2013 (C999)",
+        "code": "C999"
+      },
+      {
+        "title": "Honours Bachelor of Business Administration (Information Communication Technology) - (B699)",
+        "code": "B699"
+      },
+      {
+        "title": "Landscape Horticulture \u2013 (T866)",
+        "code": "T866"
+      },
+      {
+        "title": "Mechanical Engineering Technician - Industrial (Millwright) \u2013 (T855)",
+        "code": "T855"
+      },
+      {
+        "title": "Medical Laboratory Technician - (H299)",
+        "code": "H299"
+      },
+      {
+        "title": "Mobile Applications Development \u2013 (B990)",
+        "code": "B990"
+      },
+      {
+        "title": "Occupational Therapist Assistant / Physiotherapist Assistant \u2013 (K893)",
+        "code": "K893"
+      },
+      {
+        "title": "Pharmacy Technician \u2013 (H812)",
+        "code": "H812"
+      },
+      {
+        "title": "Plumbing Techniques \u2013 (T954)",
+        "code": "T954"
+      },
+      {
+        "title": "Practical Nursing \u2013 (K963)",
+        "code": "K963"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (C904)",
+        "code": "C904"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (K904)",
+        "code": "K904"
+      },
+      {
+        "title": "Predictive Data Analytics - (B021)",
+        "code": "B021"
+      },
+      {
+        "title": "Social Service Worker - Gerontology - (B895)",
+        "code": "B895"
+      },
+      {
+        "title": "Supply Chain Management \u2013 (B788)",
+        "code": "B788"
+      },
+      {
+        "title": "Veterinary Technician \u2013 (H258)",
+        "code": "H258"
+      },
+      {
+        "title": "Welding Techniques \u2013 (T949)",
+        "code": "T949"
+      },
+      {
+        "title": "Woodworking Technician \u2013 (T805)",
+        "code": "T805"
+      }
+    ]
+  },
+  {
+    "institution": "St Lawrence College",
+    "programs": [
+      {
+        "title": "Addictions and Mental Health - (B0891)",
+        "code": "B0891"
+      },
+      {
+        "title": "Autism & Behavioural Science - (1027)",
+        "code": "1027"
+      },
+      {
+        "title": "Bachelor of Commerce: Social Innovation - (1182)",
+        "code": "1182"
+      },
+      {
+        "title": "Bachelor of Science - Nursing (Honours) - BScN - (1124)",
+        "code": "1124"
+      },
+      {
+        "title": "Bachelor of Science - Nursing (Honours) - BScN - (1124) \u2013 Cornwall Campus",
+        "code": "C1124"
+      },
+      {
+        "title": "Behavioural Science \u2013 (0337)",
+        "code": "337"
+      },
+      {
+        "title": "Biotechnology Advanced \u2013 (0437)",
+        "code": "437"
+      },
+      {
+        "title": "Carpentry Techniques - (0141)",
+        "code": "141"
+      },
+      {
+        "title": "Civil Engineering Technology - (0104)",
+        "code": "104"
+      },
+      {
+        "title": "Computer Programming - (1135) \u2013 Cornwall Campus",
+        "code": "1135"
+      },
+      {
+        "title": "Computer Programming and Analysis \u2013 (1107)",
+        "code": "1107"
+      },
+      {
+        "title": "Computer Programming \u2013 (1135)",
+        "code": "1135"
+      },
+      {
+        "title": "Computer Systems Technician - (1108) \u2013 Cornwall Campus",
+        "code": "1108"
+      },
+      {
+        "title": "Computer Systems Technician \u2013 (1108)",
+        "code": "1108"
+      },
+      {
+        "title": "Cybersecurity - (K1136)",
+        "code": "K1136"
+      },
+      {
+        "title": "Digital Marketing Communications (DMC) - (1089)",
+        "code": "1089"
+      },
+      {
+        "title": "Early Childhood Education - (0302)",
+        "code": "302"
+      },
+      {
+        "title": "Early Childhood Education - (0302) \u2013 Cornwall Campus",
+        "code": "302"
+      },
+      {
+        "title": "Electrical Engineering Technician - (1050)",
+        "code": "1050"
+      },
+      {
+        "title": "Energy Systems Engineering Technician \u2013 (1002)",
+        "code": "1002"
+      },
+      {
+        "title": "Environmental Technician (Fast Track) - (0964FT)",
+        "code": "0964FT"
+      },
+      {
+        "title": "Environmental Technician - (0964)",
+        "code": "964"
+      },
+      {
+        "title": "Fitness and Health Promotion \u2013 (0442)",
+        "code": "442"
+      },
+      {
+        "title": "Game Programming \u2013 (0974)",
+        "code": "974"
+      },
+      {
+        "title": "General Construction Carpentry Techniques \u2013 (1071)",
+        "code": "1071"
+      },
+      {
+        "title": "Graphic Design \u2013 (0309)",
+        "code": "309"
+      },
+      {
+        "title": "Health Care Administration International - (K1151)",
+        "code": "K1151"
+      },
+      {
+        "title": "Honours Bachelor of Behavioural Psychology \u2013 (1102)",
+        "code": "1102"
+      },
+      {
+        "title": "Mechanical Technician \u2013 (0507)",
+        "code": "507"
+      },
+      {
+        "title": "Medical Laboratory Assistant/Technician \u2013 (0734)",
+        "code": "734"
+      },
+      {
+        "title": "Paramedic \u2013 (0970)",
+        "code": "970"
+      },
+      {
+        "title": "Personal Support Worker (Living Classroom \u2013 Maple View Lodge \u2013 Athens, Ontario) \u2013 (1032MVL)",
+        "code": "1032MVL"
+      },
+      {
+        "title": "Personal Support Worker (Living Classroom \u2013 Southbridge Cornwall, Ontario) \u2013 (C1032SB)",
+        "code": "C1032SB"
+      },
+      {
+        "title": "Personal Support Worker \u2013 (1032)",
+        "code": "1032"
+      },
+      {
+        "title": "Practical Nursing - (0491) \u2013 Brockville Campus",
+        "code": "B0491"
+      },
+      {
+        "title": "Practical Nursing \u2013 (0491)",
+        "code": "B0491"
+      },
+      {
+        "title": "Practical Nursing \u2013 (0491) \u2013 Cornwall Campus",
+        "code": "C0491"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees - (1094)",
+        "code": "1094"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees - (1094) \u2013 Brockville Campus",
+        "code": "B1094"
+      },
+      {
+        "title": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees \u2013 (1094) \u2013 Cornwall Campus",
+        "code": "C1094"
+      },
+      {
+        "title": "Social Service Worker - (0385) \u2013 Cornwall Campus",
+        "code": "C0385"
+      },
+      {
+        "title": "Social Service Worker \u2013 (0385)",
+        "code": "385"
+      },
+      {
+        "title": "Supply Chain Management \u2013 (0848) \u2013 Cornwall Campus",
+        "code": "C0848"
+      },
+      {
+        "title": "Supply Chain Management \u2013 (K0848)",
+        "code": "K0848"
+      },
+      {
+        "title": "User Experience Design (UX Design) \u2013 (1103)",
+        "code": "1103"
+      },
+      {
+        "title": "Veterinary Assistant \u2013 (0633)",
+        "code": "633"
+      },
+      {
+        "title": "Veterinary Technology \u2013 (0722)",
+        "code": "722"
+      },
+      {
+        "title": "Welding and Fabrication Technician \u2013 (1040)",
+        "code": "1040"
+      },
+      {
+        "title": "Wind Turbine Technician - (1046)",
+        "code": "1046"
+      }
+    ]
+  },
+  {
+    "institution": "Thompson Rivers University",
+    "programs": [
+      {
+        "title": "Architectural and Engineering Technology",
+        "code": "ARET"
+      },
+      {
+        "title": "BCS/BBA Double Degree",
+        "code": "BBDD"
+      },
+      {
+        "title": "Bachelor of Arts, General Program",
+        "code": "BA"
+      },
+      {
+        "title": "Bachelor of Business Administration (General)",
+        "code": "BBA-GEN"
+      },
+      {
+        "title": "Bachelor of Computing Science (BCS)",
+        "code": "BCS"
+      },
+      {
+        "title": "Bachelor of Education (Elementary)",
+        "code": "167610046"
+      },
+      {
+        "title": "Bachelor of Education (Secondary) STEM",
+        "code": "167610047"
+      },
+      {
+        "title": "Bachelor of Engineering in Computer Engineering",
+        "code": "BECPE"
+      },
+      {
+        "title": "Bachelor of Engineering in Software Engineering",
+        "code": "BESE"
+      },
+      {
+        "title": "Bachelor of Interdisciplinary Studies (3rd year entry)",
+        "code": "BIS"
+      },
+      {
+        "title": "Bachelor of Natural Resource Science (BNRS)",
+        "code": "BNRS"
+      },
+      {
+        "title": "Bachelor of Science in Nursing",
+        "code": "BSN"
+      },
+      {
+        "title": "Bachelor of Social Work",
+        "code": "BSW"
+      },
+      {
+        "title": "Bachelor of Tourism Management",
+        "code": "BTM"
+      },
+      {
+        "title": "Computer Network and Cybersecurity Diploma",
+        "code": "CNCD"
+      },
+      {
+        "title": "Computing Science Diploma",
+        "code": "20118"
+      },
+      {
+        "title": "Culinary Arts Certificate - Professional Cook 1",
+        "code": "CACPC1"
+      },
+      {
+        "title": "Diploma in Wildfire Studies",
+        "code": "DWS"
+      },
+      {
+        "title": "Dual Degree: Bachelor of Computing Science (BCS) and Bachelor of Business Administration (BBA)",
+        "code": "BCS-BBA"
+      },
+      {
+        "title": "Early Childhood Education",
+        "code": "ECE-FT"
+      },
+      {
+        "title": "Electrician, Construction - Kamloops",
+        "code": "EC"
+      },
+      {
+        "title": "Engineering Transfer",
+        "code": "ET"
+      },
+      {
+        "title": "Foundation Certificate in Residential Construction - Kamloops",
+        "code": "FCRC-K"
+      },
+      {
+        "title": "General Science Major, Bachelor of Science",
+        "code": "GSMBS"
+      },
+      {
+        "title": "Health Care Assistant",
+        "code": "HCA"
+      },
+      {
+        "title": "Heavy Duty Equipment Technician",
+        "code": "HDET"
+      },
+      {
+        "title": "Horticulture",
+        "code": "HORT"
+      },
+      {
+        "title": "Horticulture Management",
+        "code": "HM"
+      },
+      {
+        "title": "Human Services Diploma",
+        "code": "HSD"
+      },
+      {
+        "title": "Industrial Mechanic (Millwright) / Machinist",
+        "code": "IMM"
+      },
+      {
+        "title": "MSc Data Science \u2013 MDS \u2013 Thesis Option",
+        "code": "MDS"
+      },
+      {
+        "title": "Major in Digital Journalism",
+        "code": "MDJ"
+      },
+      {
+        "title": "Major in Media Studies",
+        "code": "MIMS"
+      },
+      {
+        "title": "Major in Public Relations",
+        "code": "MPR"
+      },
+      {
+        "title": "Master of Arts in Human Rights and Social Justice",
+        "code": "MAHRSJ"
+      },
+      {
+        "title": "Master of Engineering Science",
+        "code": "MES"
+      },
+      {
+        "title": "Master of Science in Data Science",
+        "code": "MSCDS"
+      },
+      {
+        "title": "Master of Science in Environmental Economics and Management",
+        "code": "MScEEM"
+      },
+      {
+        "title": "Master of Science in Environmental Science",
+        "code": "MSES"
+      },
+      {
+        "title": "Meatcutter",
+        "code": "M"
+      },
+      {
+        "title": "Post-Baccalaureate Diploma in Applied Data Science",
+        "code": "PB-DADS"
+      },
+      {
+        "title": "Post-Baccalaureate Diploma in Mathematics and Economics",
+        "code": "PBDME"
+      },
+      {
+        "title": "Post-Baccalaureate Diploma in Supply Chain Management",
+        "code": "PBDSCM"
+      },
+      {
+        "title": "Power Engineering - 4th Class Certificate",
+        "code": "PE-4CC"
+      },
+      {
+        "title": "Practical Nursing Diploma Williams Lake Campus",
+        "code": "PND-WL"
+      },
+      {
+        "title": "Refrigeration and Air-Conditioning Mechanic (HVAC Technician)",
+        "code": "RACMHT"
+      },
+      {
+        "title": "Regenerative Agriculture",
+        "code": "RA"
+      },
+      {
+        "title": "Regenerative Agriculture - Certificate",
+        "code": "RA"
+      },
+      {
+        "title": "Respiratory Therapy",
+        "code": "RT"
+      },
+      {
+        "title": "Welder",
+        "code": "W"
+      }
+    ]
+  },
+  {
+    "institution": "University Of Fraser Valley",
+    "programs": [
+      {
+        "title": "AI and Machine Learning post-baccalaureate diploma",
+        "code": "AIML"
+      },
+      {
+        "title": "Agriculture Technology diploma",
+        "code": "ATD"
+      },
+      {
+        "title": "Aviation \u2014 Bachelor of Business Administration",
+        "code": "ABBA"
+      },
+      {
+        "title": "Bachelor of Agricultural Science, Horticulture major",
+        "code": "BASHM"
+      },
+      {
+        "title": "Bachelor of Arts",
+        "code": "BA"
+      },
+      {
+        "title": "Bachelor of Arts in Global Development Studies",
+        "code": "BAGDS"
+      },
+      {
+        "title": "Bachelor of Business Administration - Accounting",
+        "code": "BBAA"
+      },
+      {
+        "title": "Bachelor of Business Administration - Finance",
+        "code": "BBAF"
+      },
+      {
+        "title": "Bachelor of Business Administration - Human Resources",
+        "code": "BBAHR"
+      },
+      {
+        "title": "Bachelor of Business Administration - International Business",
+        "code": "BBAIB"
+      },
+      {
+        "title": "Bachelor of Business Administration - Marketing",
+        "code": "BBAM"
+      },
+      {
+        "title": "Bachelor of Computer Information Systems - Security",
+        "code": "BCISS"
+      },
+      {
+        "title": "Bachelor of Computer Information Systems - Software Development",
+        "code": "BCISSD"
+      },
+      {
+        "title": "Bachelor of Computer Information Systems - Systems And Networking",
+        "code": "BCISSN"
+      },
+      {
+        "title": "Bachelor of Fine Arts",
+        "code": "BFA"
+      },
+      {
+        "title": "Bachelor of Kinesiology",
+        "code": "BK"
+      },
+      {
+        "title": "Biology \u2013 Bachelor of Science",
+        "code": "BS"
+      },
+      {
+        "title": "Chemistry \u2013 Bachelor of Science",
+        "code": "CBS"
+      },
+      {
+        "title": "Computing Science - Bachelor of Science",
+        "code": "CSBS"
+      },
+      {
+        "title": "Criminal Justice \u2014 Bachelor of Arts",
+        "code": "CJBA"
+      },
+      {
+        "title": "Environmental Studies (Natural Sciences)",
+        "code": "ESNS"
+      },
+      {
+        "title": "Environmental Studies \u2013 bachelor's degree",
+        "code": "ES"
+      },
+      {
+        "title": "Integrated Studies",
+        "code": "IS"
+      },
+      {
+        "title": "Mathematics major (BA/BSc), extended minor (BA), or minor (BA/BSc/BCIS/BGS)",
+        "code": "MMEOM"
+      },
+      {
+        "title": "Media Arts \u2013 bachelor's degree",
+        "code": "-"
+      },
+      {
+        "title": "Physics \u2014 Bachelor of Science",
+        "code": "PBS"
+      },
+      {
+        "title": "Regional and Community Planning",
+        "code": "RACP"
+      },
+      {
+        "title": "Social Work \u2014 bachelor's degree",
+        "code": "SWBD"
+      }
+    ]
+  },
+  {
+    "institution": "University Of Windsor",
+    "programs": [
+      {
+        "title": "Civil Engineering",
+        "code": "CE"
+      },
+      {
+        "title": "Civil Engineering - MASc",
+        "code": "312"
+      },
+      {
+        "title": "Communication, Media and Film / Concurrent Education",
+        "code": "CMFCE"
+      },
+      {
+        "title": "Communication, Media, and Film - (380)",
+        "code": "380"
+      },
+      {
+        "title": "Dramatic Art / Concurrent Education",
+        "code": "DACE"
+      },
+      {
+        "title": "Educational Studies (Joint Ph.D)",
+        "code": "ESJPhD"
+      },
+      {
+        "title": "Electrical Engineering - Master of Applied Science (MASc)",
+        "code": "320-MASC"
+      },
+      {
+        "title": "Engineering Technology",
+        "code": "ET"
+      },
+      {
+        "title": "Environmental Engineering - MASc",
+        "code": "EEN"
+      },
+      {
+        "title": "French Studies / Concurrent Education",
+        "code": "FSCE"
+      },
+      {
+        "title": "General Science / Concurrent Education",
+        "code": "GSCE"
+      },
+      {
+        "title": "History / Concurrent Education",
+        "code": "11876"
+      },
+      {
+        "title": "Industrial Engineering - MASc",
+        "code": "IE-MASC"
+      },
+      {
+        "title": "Juris Doctor",
+        "code": "JD"
+      },
+      {
+        "title": "Juris Doctor / Master of Social Work",
+        "code": "JDMSW"
+      },
+      {
+        "title": "Kinesiology & Health Studies",
+        "code": "KHS"
+      },
+      {
+        "title": "Kinesiology & Health Studies, MSc (KHS)",
+        "code": "KHS"
+      },
+      {
+        "title": "Master of Engineering, MEng",
+        "code": "ME-MENG"
+      },
+      {
+        "title": "Master of Laws (LLM) Program",
+        "code": "LLM"
+      },
+      {
+        "title": "Master of Management, MM (16-Month)",
+        "code": "MM"
+      },
+      {
+        "title": "Master of Management, MM \u2013 14472 \u2013 12 Month",
+        "code": "14472"
+      },
+      {
+        "title": "Master of Science in Nursing (MScN) - Course Based",
+        "code": "629"
+      },
+      {
+        "title": "Master of Science in Nursing Degree - Thesis-Based",
+        "code": "MSND-TB"
+      },
+      {
+        "title": "Master of Science in Translational Health Sciences, MSc",
+        "code": "MSTHS"
+      },
+      {
+        "title": "Mathematics / Concurrent Education",
+        "code": "13516"
+      },
+      {
+        "title": "Music Education / Concurrent Education",
+        "code": "MECE"
+      },
+      {
+        "title": "Nursing",
+        "code": "2000"
+      },
+      {
+        "title": "Political Science / Concurrent Education",
+        "code": "PSCE"
+      },
+      {
+        "title": "Primary Health Care Nurse Practitioner, Graduate Diploma \u2013 (PHC-NP)",
+        "code": "PHC-NP"
+      },
+      {
+        "title": "Psychology / Concurrent Education / Early Childhood Education",
+        "code": "PCEECE"
+      },
+      {
+        "title": "Second Language Education / Concurrent Education",
+        "code": "SLECE"
+      },
+      {
+        "title": "Sport Management & Leadership, MSML (Internship)",
+        "code": "SMLMI"
+      },
+      {
+        "title": "Sport Management & Leadership, MSML (Thesis)",
+        "code": "MSMLT"
+      },
+      {
+        "title": "Sport Management and Leadership",
+        "code": "2030"
+      },
+      {
+        "title": "Visual Arts / Concurrent Education",
+        "code": "VACE"
+      }
+    ]
+  },
+  {
+    "institution": "Vancouver Community College",
+    "programs": [
+      {
+        "title": "Bachelor of Hospitality Management",
+        "code": "BHM"
+      },
+      {
+        "title": "CAD and BIM Technician",
+        "code": "CBIMT"
+      },
+      {
+        "title": "Clean Energy Technology",
+        "code": "CLEN"
+      },
+      {
+        "title": "Culinary Arts - (214)",
+        "code": "214"
+      },
+      {
+        "title": "Culinary Arts and Food Service Management - (CUDP FSMG)",
+        "code": "CUDP FSMG"
+      },
+      {
+        "title": "Digital Marketing Technology",
+        "code": "217"
+      },
+      {
+        "title": "Electronics Repair Technology",
+        "code": "135"
+      },
+      {
+        "title": "Global Supply Chain Management",
+        "code": "197"
+      },
+      {
+        "title": "Heavy Mechanical Technology \u2013 (HMTD)",
+        "code": "112"
+      },
+      {
+        "title": "Hospitality and Food Service Systems Management",
+        "code": "HAFSSM"
+      },
+      {
+        "title": "IT Project Management \u2013 (ITPM)",
+        "code": "ITPM"
+      },
+      {
+        "title": "University Transfer \u2013 Computing Science and Software Systems",
+        "code": "UTCS-SS"
+      },
+      {
+        "title": "University Transfer \u2013 Engineering",
+        "code": "46-A"
+      },
+      {
+        "title": "University Transfer \u2013 Science",
+        "code": "UTS"
+      }
+    ]
+  },
+  {
+    "institution": "Vancouver Island University",
+    "programs": [
+      {
+        "title": "Accounting (BBA) - Nanaimo",
+        "code": "177"
+      },
+      {
+        "title": "Anthropology (BA)",
+        "code": "AB"
+      },
+      {
+        "title": "Aquaculture (BA)",
+        "code": "aba"
+      },
+      {
+        "title": "Aquaculture (BSc)",
+        "code": "141"
+      },
+      {
+        "title": "Bachelor of Applied Music",
+        "code": "BAM"
+      },
+      {
+        "title": "Bachelor of Arts (BA), Honours, Majors, and Minors",
+        "code": "209"
+      },
+      {
+        "title": "Bachelor of Design in Graphic Design",
+        "code": "BDGD"
+      },
+      {
+        "title": "Bachelor of Education (Year 1 Entry)",
+        "code": "294"
+      },
+      {
+        "title": "Bachelor of Education - Post Baccalaureate",
+        "code": "BOEPB"
+      },
+      {
+        "title": "Bachelor of Hospitality Management",
+        "code": "BHM"
+      },
+      {
+        "title": "Bachelor of Interior Design",
+        "code": "BID"
+      },
+      {
+        "title": "Bachelor of Kinesiology",
+        "code": "BK"
+      },
+      {
+        "title": "Bachelor of Natural Resource Protection",
+        "code": "BNRP"
+      },
+      {
+        "title": "Bachelor of Social Work",
+        "code": "BSW"
+      },
+      {
+        "title": "Bachelor of Tourism Management",
+        "code": "BTM"
+      },
+      {
+        "title": "Biology (BSc)",
+        "code": "BSC-B"
+      },
+      {
+        "title": "Chemistry (BSc)",
+        "code": "245"
+      },
+      {
+        "title": "Child and Youth Care (BA)",
+        "code": "CYC"
+      },
+      {
+        "title": "Computer Science (BSc)",
+        "code": "248"
+      },
+      {
+        "title": "Computer Science - Diploma",
+        "code": "CS"
+      },
+      {
+        "title": "Criminology (BA)",
+        "code": "CBA"
+      },
+      {
+        "title": "Culinary Arts",
+        "code": "CA"
+      },
+      {
+        "title": "Culinary Management",
+        "code": "210"
+      },
+      {
+        "title": "Dental Hygiene",
+        "code": "DH"
+      },
+      {
+        "title": "Early Childhood Education and Care Diploma",
+        "code": "ECECD"
+      },
+      {
+        "title": "Earth Science (BA)",
+        "code": "ESB"
+      },
+      {
+        "title": "Earth Science (BSc)",
+        "code": "244"
+      },
+      {
+        "title": "Economics (BA)",
+        "code": "EB"
+      },
+      {
+        "title": "Economics (BBA)",
+        "code": "EBBA"
+      },
+      {
+        "title": "Engineering Transfer Certificate",
+        "code": "ETC"
+      },
+      {
+        "title": "Engineering Transfer Diploma",
+        "code": "153"
+      },
+      {
+        "title": "Financial Services (BBA)",
+        "code": "FSBBA"
+      },
+      {
+        "title": "Geography (BA)",
+        "code": "G-BA"
+      },
+      {
+        "title": "Geography (BSc)",
+        "code": "G-BSC"
+      },
+      {
+        "title": "Geoscience (BSc)",
+        "code": "GS"
+      },
+      {
+        "title": "History (BA)",
+        "code": "266"
+      },
+      {
+        "title": "Human Resources Management (BBA)",
+        "code": "BBA-HRM"
+      },
+      {
+        "title": "Indigenous/Xwulmuxw Studies (BA)",
+        "code": "IS"
+      },
+      {
+        "title": "Information Technology and Applied Systems \u2013 Systems Administration and Cybersecurity Diploma",
+        "code": "ITAS-SAC"
+      },
+      {
+        "title": "International Business (BBA)",
+        "code": "173"
+      },
+      {
+        "title": "Languages and Culture (Romance Languages) (BA)",
+        "code": "LC(RL)(BA)"
+      },
+      {
+        "title": "Liberal Studies (BA)",
+        "code": "LSBA"
+      },
+      {
+        "title": "Management (BBA)",
+        "code": "MBBA"
+      },
+      {
+        "title": "Marketing (BBA)",
+        "code": "M-BBA"
+      },
+      {
+        "title": "Master of Business Administration (MBA)",
+        "code": "MBA"
+      },
+      {
+        "title": "Master of Education in Educational Leadership - Full-Time option",
+        "code": "292"
+      },
+      {
+        "title": "Mathematics (BA)",
+        "code": "M-BA"
+      },
+      {
+        "title": "Mathematics (BSc)",
+        "code": "M-BSC"
+      },
+      {
+        "title": "Media Studies (BA)",
+        "code": "MS"
+      },
+      {
+        "title": "Mental Health Care Assistant",
+        "code": "133"
+      },
+      {
+        "title": "Philosophy (BA)",
+        "code": "264"
+      },
+      {
+        "title": "Political Studies (BA)",
+        "code": "PS-BA"
+      },
+      {
+        "title": "Psychology (BSc)",
+        "code": "P-BSC"
+      },
+      {
+        "title": "Resource Management Officer Technology",
+        "code": "RMOT"
+      },
+      {
+        "title": "Social Services",
+        "code": "ss"
+      },
+      {
+        "title": "Sociology (BA)",
+        "code": "SBA"
+      },
+      {
+        "title": "Studies in Women and Gender (BA)",
+        "code": "SWGBA"
+      },
+      {
+        "title": "Visual Art (BA)",
+        "code": "VA"
+      }
+    ]
+  }
+]
