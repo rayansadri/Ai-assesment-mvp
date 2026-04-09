@@ -186,7 +186,7 @@ export default function AdminProgramLeaderboard({ params }: { params: Promise<{ 
               {/* Filter tabs */}
               <div style={{ display: 'flex', gap: 6, marginBottom: 16 }}>
                 {([
-                  { key: 'all', label: `All (${students.length})` },
+                  { key: 'all', label: `All (${students.length})`, color: '#fff', bg: '#111827' },
                   { key: 'strong', label: `Strong Fit (${strongCount})`, color: '#065F46', bg: '#D1FAE5' },
                   { key: 'good', label: `Good Fit (${goodCount})`, color: '#1E40AF', bg: '#DBEAFE' },
                   { key: 'developing', label: `Developing (${students.length - strongCount - goodCount})`, color: '#92400E', bg: '#FEF3C7' },
@@ -197,8 +197,8 @@ export default function AdminProgramLeaderboard({ params }: { params: Promise<{ 
                     style={{
                       height: 32, padding: '0 14px', borderRadius: 20, cursor: 'pointer',
                       border: filter === tab.key ? 'none' : '1px solid #E5E7EB',
-                      background: filter === tab.key ? (tab.bg || '#111827') : '#fff',
-                      color: filter === tab.key ? (tab.color || '#fff') : '#6B7280',
+                      background: filter === tab.key ? tab.bg : '#fff',
+                      color: filter === tab.key ? tab.color : '#6B7280',
                       fontSize: 12.5, fontWeight: 600, fontFamily: 'inherit'
                     }}
                   >
