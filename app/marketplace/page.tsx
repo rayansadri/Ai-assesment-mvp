@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import { PROGRAMS, CATEGORY_CONFIG, SCHOOLS, seedMarketplaceAssessments, type Program } from '@/lib/programs'
+import { PROGRAMS, CATEGORY_CONFIG, SCHOOLS, seedMarketplaceAssessments, seedDemoSubmissions, type Program } from '@/lib/programs'
 
 // ─── Nav ──────────────────────────────────────────────────────────────────────
 function MarketplaceNav() {
@@ -321,6 +321,7 @@ function ProgramRow({ categoryKey, label, description }: { categoryKey: string; 
 export default function MarketplacePage() {
   useEffect(() => {
     seedMarketplaceAssessments()
+    seedDemoSubmissions()
   }, [])
 
   return (

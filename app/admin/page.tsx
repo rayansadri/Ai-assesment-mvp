@@ -1,7 +1,7 @@
 'use client'
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { PROGRAMS, computeFitScore, getScoreLabel, getProgramByAssessmentId } from '@/lib/programs'
+import { PROGRAMS, computeFitScore, getScoreLabel, getProgramByAssessmentId, seedDemoSubmissions } from '@/lib/programs'
 
 interface SubmissionResponse {
   blockId: string
@@ -250,6 +250,7 @@ export default function AdminDashboard() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
+    seedDemoSubmissions()
     try {
       const stored: Submission[] = JSON.parse(localStorage.getItem('pa-submissions') || '[]')
       stored.sort((a, b) => new Date(b.submittedAt || b.startedAt).getTime() - new Date(a.submittedAt || a.startedAt).getTime())

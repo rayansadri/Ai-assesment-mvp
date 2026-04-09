@@ -369,6 +369,280 @@ export function seedMarketplaceAssessments(): void {
   }
 }
 
+// ─── Demo Submission Seed ─────────────────────────────────────────────────────
+
+const DEMO_SEED_KEY = 'pa-demo-seeded-v2'
+
+const mkDate = (daysAgo: number) => {
+  const d = new Date('2026-04-09T12:00:00Z')
+  d.setDate(d.getDate() - daysAgo)
+  return d.toISOString()
+}
+
+const filledText = (t: string) => ({ textResponse: t })
+const videoBlock = () => ({ videoUrl: 'https://example.com/demo-video.mp4' })
+
+const DEMO_STUDENTS: {
+  id: string; name: string; email: string; assessmentId: string;
+  programId: string; programName: string; daysAgo: number;
+  responses: { blockId: string; blockType: string; textResponse?: string; videoUrl?: string }[]
+}[] = [
+  // ── mkt-assess-001: Practical Nursing (prog-001) ──────────────────────────
+  {
+    id: 'demo-s001', name: 'Priya Sharma', email: 'priya.sharma@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 2,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Understood all instructions clearly.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would prioritize Mrs. Smith first by calmly reassuring her and alerting the charge nurse, then address Mr. Jones with a brief empathetic check-in to maintain safety for both residents.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('My passion for nursing started when I cared for my grandmother during her recovery. That experience showed me how much a compassionate nurse can impact a patient\'s dignity and healing journey.') },
+    ],
+  },
+  {
+    id: 'demo-s002', name: 'Maria Santos', email: 'maria.santos@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 4,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have reviewed the instructions and understand the process.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I\'d use therapeutic communication with Mrs. Smith, administer her medication with gentle de-escalation, and simultaneously call for backup for Mr. Jones to ensure neither resident is left unattended.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I worked as a healthcare aide for 3 years in the Philippines and understand the emotional demands of patient care. I am determined to grow into a licensed practical nurse in Canada.') },
+    ],
+  },
+  {
+    id: 'demo-s003', name: 'James Okafor', email: 'james.okafor@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 6,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Ready to begin the assessment.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Prioritize the resident showing acute distress, use the call bell to alert staff for the second resident, document both incidents, and follow escalation protocol as trained.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I volunteered at a community clinic in Lagos for two years and developed strong clinical observation skills. This program aligns with my long-term goal of becoming a registered nurse in Canada.') },
+    ],
+  },
+  {
+    id: 'demo-s004', name: 'Fatima Al-Hassan', email: 'fatima.alhassan@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 9,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Instructions noted.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would stay calm, assess Mrs. Smith first as she appears more distressed, use a soothing tone, and delegate Mr. Jones care to a colleague while I administer the medication safely.') },
+    ],
+  },
+  {
+    id: 'demo-s005', name: 'Li Wei', email: 'li.wei.student@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 11,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Completed reading the assessment brief.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would use a structured SBAR approach — assess both patients, communicate urgency to the charge nurse, and follow standard care protocols to ensure no resident is neglected during the shift.') },
+    ],
+  },
+  {
+    id: 'demo-s006', name: 'Nina Kowalski', email: 'nina.kowalski@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 14,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I understand the instructions.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+    ],
+  },
+  {
+    id: 'demo-s007', name: 'Carlos Mendez', email: 'carlos.mendez.mx@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 18,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Starting the assessment now.') },
+    ],
+  },
+  {
+    id: 'demo-s008', name: 'Aisha Diallo', email: 'aisha.diallo@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 21,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Understood the instructions provided.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would assess and triage both residents, prioritizing the one with acute distress, while using the call system to request immediate assistance from available staff.') },
+    ],
+  },
+  // ── mkt-assess-001 (shared): Welding Technician (prog-006) ───────────────
+  {
+    id: 'demo-w001', name: 'Omar Tremblay', email: 'omar.tremblay@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-006', programName: 'Welding Technician — Niagara College', daysAgo: 3,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have reviewed all the instructions carefully.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would immediately stop work, warn my coworker of the hazard, isolate the area, report to the foreman, and follow lockout/tagout procedures before allowing any work to resume.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I completed an introductory welding course at my local community center and I am eager to develop professional-grade skills. I am detail-oriented, safety-conscious, and committed to hands-on trade work.') },
+    ],
+  },
+  {
+    id: 'demo-w002', name: 'Raj Patel', email: 'raj.patel.ca@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-006', programName: 'Welding Technician — Niagara College', daysAgo: 7,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Understood all the instructions.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Safety first — I would stop all operations, document the incident, follow proper incident reporting protocols, and ensure both my safety and my coworker\'s safety before resuming work.') },
+    ],
+  },
+  {
+    id: 'demo-w003', name: 'Lucas Ferreira', email: 'lucas.ferreira.br@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-006', programName: 'Welding Technician — Niagara College', daysAgo: 12,
+    responses: [
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+    ],
+  },
+  // ── mkt-assess-002: ECE (prog-003) ───────────────────────────────────────
+  {
+    id: 'demo-e001', name: 'Zara Ahmed', email: 'zara.ahmed@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 1,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have read through the full brief and am ready to begin.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would get down to the child\'s eye level, use a calm reassuring voice, validate their feelings, and redirect them to a calming corner while notifying the lead educator. Documentation would follow.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I babysat and tutored children aged 2-10 for 4 years and genuinely enjoy creating safe, nurturing learning environments. ECE allows me to build the foundations for a child\'s entire future.') },
+    ],
+  },
+  {
+    id: 'demo-e002', name: 'Sofia Petrov', email: 'sofia.petrov@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 5,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Instructions are clear — ready to proceed.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would use de-escalation strategies — acknowledge the child\'s emotions, remove them safely from the situation, apply trauma-informed practices, and consult with the family and lead educator.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('Growing up with a younger sibling who has autism gave me a deep appreciation for inclusive childcare. I want to specialize in early intervention and sensory-friendly learning environments.') },
+    ],
+  },
+  {
+    id: 'demo-e003', name: 'Kenji Tanaka', email: 'kenji.tanaka.ca@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 8,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I understand what is expected.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Create a calm, predictable routine to address the child\'s behavior. Use positive reinforcement and partner with parents to understand triggers and adapt the classroom environment accordingly.') },
+    ],
+  },
+  {
+    id: 'demo-e004', name: 'Blessing Nwosu', email: 'blessing.nwosu@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 13,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Read the brief.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+    ],
+  },
+  {
+    id: 'demo-e005', name: 'Emma Nguyen', email: 'emma.nguyen.ca@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 17,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would speak softly to the child and guide them to a safe space.') },
+    ],
+  },
+  // ── mkt-assess-002 (shared): Business Admin (prog-008) ───────────────────
+  {
+    id: 'demo-b001', name: 'David Kim', email: 'david.kim.ca@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-008', programName: 'Business Administration — Sheridan College', daysAgo: 2,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have read and understood the brief.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would approach the manager privately, present data to support my concern, propose an alternative, and document the discussion. I believe transparent communication is essential in business settings.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I managed a small family business in Korea for 2 years handling inventory, customer relations, and bookkeeping. This experience gave me practical business instincts and a desire to formalize my education.') },
+    ],
+  },
+  {
+    id: 'demo-b002', name: 'Isabela Rocha', email: 'isabela.rocha.br@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-008', programName: 'Business Administration — Sheridan College', daysAgo: 6,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I understand the assessment guidelines.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would listen carefully to the conflicting instructions, clarify with both parties separately, document the discrepancy, and escalate to senior management to resolve the conflict professionally.') },
+    ],
+  },
+  {
+    id: 'demo-b003', name: 'Ahmed Siddiqui', email: 'ahmed.siddiqui.pk@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-008', programName: 'Business Administration — Sheridan College', daysAgo: 10,
+    responses: [
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+    ],
+  },
+  // ── mkt-assess-003: Cybersecurity (prog-004) ──────────────────────────────
+  {
+    id: 'demo-c001', name: 'Kevin Chen', email: 'kevin.chen.ca@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 1,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have read and fully understood the assessment instructions.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('I would immediately isolate the compromised system from the network, preserve logs for forensic analysis, notify the security team and management, and initiate the incident response plan to contain the breach.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I hold CompTIA Security+ certification and have set up home labs for penetration testing practice. Cybersecurity is my calling — I want to protect Canadian infrastructure and businesses from evolving threats.') },
+    ],
+  },
+  {
+    id: 'demo-c002', name: 'Alex Johnson', email: 'alex.johnson.ca@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 3,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('Instructions are clear and I am ready to begin.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Triage the breach severity first — if active, shut down affected endpoints. Notify CISO and legal team, preserve evidence chain of custody, and coordinate with IT to harden remaining systems.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I completed a 6-month ethical hacking bootcamp and contributed to open-source security tools on GitHub. I am analytical, detail-driven, and passionate about proactive threat detection.') },
+    ],
+  },
+  {
+    id: 'demo-c003', name: 'Yasmine Ouedraogo', email: 'yasmine.ouedraogo@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 5,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I have understood the instructions.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Immediately report to the incident response team, isolate affected systems, document all observed behaviors, and follow the escalation matrix — security vs. speed trade-offs must be decided by leadership.') },
+      { blockId: 'b4', blockType: 'open-text', ...filledText('I studied computer science for 2 years in France before moving to Canada. I have a strong foundation in networking and operating systems and am eager to specialize in defensive security.') },
+    ],
+  },
+  {
+    id: 'demo-c004', name: 'Marcus Obi', email: 'marcus.obi.ng@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 8,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('All instructions reviewed.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Contain, then investigate. Network segmentation and log preservation are the immediate priorities. Communication with affected stakeholders follows strict data breach notification requirements.') },
+    ],
+  },
+  {
+    id: 'demo-c005', name: 'Valentina Cruz', email: 'valentina.cruz.co@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 12,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', ...filledText('I understand what is required.') },
+      { blockId: 'b2', blockType: 'video', ...videoBlock() },
+    ],
+  },
+  {
+    id: 'demo-c006', name: 'Ryan Mackenzie', email: 'ryan.mackenzie.ca@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 16,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', ...filledText('Shut it down and call IT.') },
+    ],
+  },
+]
+
+export function seedDemoSubmissions(): void {
+  if (typeof window === 'undefined') return
+  try {
+    if (localStorage.getItem(DEMO_SEED_KEY) === 'true') return
+    const stored: unknown[] = JSON.parse(localStorage.getItem('pa-submissions') || '[]')
+    for (const s of DEMO_STUDENTS) {
+      if (!(stored as { id: string }[]).find(x => x && (x as { id: string }).id === s.id)) {
+        stored.push({
+          id: s.id,
+          assessmentId: s.assessmentId,
+          assessmentTitle: s.programName.split(' — ')[0] + ' Assessment',
+          studentName: s.name,
+          studentEmail: s.email,
+          programName: s.programName,
+          programId: s.programId,
+          startedAt: mkDate(s.daysAgo + 1),
+          submittedAt: mkDate(s.daysAgo),
+          status: 'submitted',
+          responses: s.responses,
+        })
+      }
+    }
+    localStorage.setItem('pa-submissions', JSON.stringify(stored))
+    localStorage.setItem(DEMO_SEED_KEY, 'true')
+  } catch { /* ignore */ }
+}
+
 // ─── Score computation ────────────────────────────────────────────────────────
 
 interface SubmissionResponse {
