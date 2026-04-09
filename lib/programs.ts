@@ -371,7 +371,7 @@ export function seedMarketplaceAssessments(): void {
 
 // ─── Demo Submission Seed ─────────────────────────────────────────────────────
 
-const DEMO_SEED_KEY = 'pa-demo-seeded-v2'
+const DEMO_SEED_KEY = 'pa-demo-seeded-v3'
 
 const mkDate = (daysAgo: number) => {
   const d = new Date('2026-04-09T12:00:00Z')
@@ -612,6 +612,103 @@ const DEMO_STUDENTS: {
     assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 16,
     responses: [
       { blockId: 'b3', blockType: 'scenario', ...filledText('Shut it down and call IT.') },
+    ],
+  },
+
+  // ── LOW SCORERS — Developing Fit (short/empty responses) ─────────────────
+
+  // Nursing low scorers
+  {
+    id: 'demo-s-low01', name: 'Tyler Brass', email: 'tyler.brass@hotmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 3,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'ok' },
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'I would help them.' },
+    ],
+  },
+  {
+    id: 'demo-s-low02', name: 'Jake Norris', email: 'jake.norris99@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 5,
+    responses: [
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'I like helping people.' },
+    ],
+  },
+  {
+    id: 'demo-s-low03', name: 'Mia Fletcher', email: 'mia.fletcher.ca@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-001', programName: 'Practical Nursing — George Brown College', daysAgo: 7,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'ready' },
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Call a nurse.' },
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'Good career choice.' },
+    ],
+  },
+
+  // Welding low scorers
+  {
+    id: 'demo-w-low01', name: 'Sean Gallagher', email: 'sean.gallagher.ca@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-006', programName: 'Welding Technician — Niagara College', daysAgo: 4,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Stop work.' },
+    ],
+  },
+  {
+    id: 'demo-w-low02', name: 'Dylan Park', email: 'dylan.park.on@gmail.com',
+    assessmentId: 'mkt-assess-001', programId: 'prog-006', programName: 'Welding Technician — Niagara College', daysAgo: 9,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'ok' },
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'I want to weld.' },
+    ],
+  },
+
+  // ECE low scorers
+  {
+    id: 'demo-e-low01', name: 'Chloe Martin', email: 'chloe.martin.ca@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 3,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Talk to the child.' },
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'I love kids.' },
+    ],
+  },
+  {
+    id: 'demo-e-low02', name: 'Nathan Roy', email: 'nathan.roy.qc@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-003', programName: 'Early Childhood Education — Humber College', daysAgo: 8,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'ok' },
+    ],
+  },
+
+  // Business low scorers
+  {
+    id: 'demo-b-low01', name: 'Ethan Woods', email: 'ethan.woods.on@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-008', programName: 'Business Administration — Sheridan College', daysAgo: 4,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Follow the rules.' },
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'Good with numbers.' },
+    ],
+  },
+  {
+    id: 'demo-b-low02', name: 'Paige Hammond', email: 'paige.hammond.ca@gmail.com',
+    assessmentId: 'mkt-assess-002', programId: 'prog-008', programName: 'Business Administration — Sheridan College', daysAgo: 11,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'Starting.' },
+    ],
+  },
+
+  // Cybersecurity low scorers
+  {
+    id: 'demo-c-low01', name: 'Connor Blake', email: 'connor.blake.ca@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 5,
+    responses: [
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Tell the boss.' },
+      { blockId: 'b4', blockType: 'open-text', textResponse: 'Good at computers.' },
+    ],
+  },
+  {
+    id: 'demo-c-low02', name: 'Amber Singh', email: 'amber.singh.ca@gmail.com',
+    assessmentId: 'mkt-assess-003', programId: 'prog-004', programName: 'Cybersecurity Technician — George Brown College', daysAgo: 10,
+    responses: [
+      { blockId: 'b1', blockType: 'intro', textResponse: 'ok' },
+      { blockId: 'b3', blockType: 'scenario', textResponse: 'Restart the server.' },
     ],
   },
 ]

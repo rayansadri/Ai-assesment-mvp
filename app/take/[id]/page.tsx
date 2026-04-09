@@ -130,6 +130,8 @@ function VideoBlock({
       setStreamReady(true)
       if (videoRef.current) {
         videoRef.current.srcObject = stream
+        // Safari requires explicit play() after srcObject is set
+        videoRef.current.play().catch(() => {})
       }
     } catch {
       setPermissionError('Camera access is required. Please allow camera access in your browser settings.')
@@ -139,7 +141,15 @@ function VideoBlock({
   const handleStartRecording = () => {
     if (!streamRef.current) return
     chunksRef.current = []
-    const mr = new MediaRecorder(streamRef.current)
+    // Safari doesn't support video/webm — detect best supported MIME type
+    const mimeType = [
+      'video/mp4;codecs=avc1',
+      'video/mp4',
+      'video/webm;codecs=vp9',
+      'video/webm',
+      '',
+    ].find(t => t === '' || MediaRecorder.isTypeSupported(t)) ?? ''
+    const mr = mimeType ? new MediaRecorder(streamRef.current, { mimeType }) : new MediaRecorder(streamRef.current)
     mediaRecorderRef.current = mr
 
     mr.ondataavailable = (e) => {
@@ -147,7 +157,7 @@ function VideoBlock({
     }
 
     mr.onstop = async () => {
-      const blob = new Blob(chunksRef.current, { type: 'video/webm' })
+      const blob = new Blob(chunksRef.current, { type: mr.mimeType || 'video/webm' })
       const url = URL.createObjectURL(blob)
       setVideoBlob(blob)
       setVideoUrl(url)
@@ -208,9 +218,10 @@ function VideoBlock({
     setCountdown(maxDuration)
     setRecordingDuration(0)
     onChange(null)
-    // Re-attach stream to preview
+    // Re-attach stream to preview (Safari needs explicit play())
     if (streamRef.current && videoRef.current) {
       videoRef.current.srcObject = streamRef.current
+      videoRef.current.play().catch(() => {})
     }
   }
 
@@ -303,13 +314,28 @@ function VideoBlock({
       ) : recording ? (
         /* Recording in progress */
         <div>
-          <video
-            ref={videoRef}
-            autoPlay
-            muted
-            playsInline
-            style={{ width: '100%', borderRadius: 8, maxHeight: 280, marginBottom: 12, background: '#000' }}
-          />
+          <div style={{ position: 'relative', marginBottom: 12 }}>
+            <video
+              ref={videoRef}
+              autoPlay
+              muted
+              playsInline
+              style={{ width: '100%', borderRadius: 8, maxHeight: 280, display: 'block', background: '#000' }}
+            />
+            <div style={{
+              position: 'absolute', bottom: 0, left: 0, right: 0,
+              background: 'linear-gradient(transparent, rgba(0,0,0,0.75))',
+              borderRadius: '0 0 8px 8px', padding: '16px 12px 10px',
+              display: 'flex', alignItems: 'center', gap: 6,
+            }}>
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FCD34D" strokeWidth="2.5" style={{ flexShrink: 0 }}>
+                <circle cx="12" cy="12" r="10"/><path d="M12 8v4m0 4h.01"/>
+              </svg>
+              <span style={{ fontSize: 11.5, color: '#FCD34D', fontWeight: 600 }}>
+                Please look at the screen — eye movement is monitored for integrity
+              </span>
+            </div>
+          </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
             <div style={{
               width: 10, height: 10, borderRadius: '50%', background: '#EF4444',
@@ -336,13 +362,28 @@ function VideoBlock({
       ) : streamReady ? (
         /* Stream ready, not yet recording */
         <div>
-          <video
-            ref={videoRef}
-            autoPlay
-            muted
-            playsInline
-            style={{ width: '100%', borderRadius: 8, maxHeight: 280, marginBottom: 12, background: '#000' }}
-          />
+          <div style={{ position: 'relative', marginBottom: 12 }}>
+            <video
+              ref={videoRef}
+              autoPlay
+              muted
+              playsInline
+              style={{ width: '100%', borderRadius: 8, maxHeight: 280, display: 'block', background: '#000' }}
+            />
+            <div style={{
+              position: 'absolute', bottom: 0, left: 0, right: 0,
+              background: 'linear-gradient(transparent, rgba(0,0,0,0.75))',
+              borderRadius: '0 0 8px 8px', padding: '16px 12px 10px',
+              display: 'flex', alignItems: 'center', gap: 6,
+            }}>
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#FCD34D" strokeWidth="2.5" style={{ flexShrink: 0 }}>
+                <circle cx="12" cy="12" r="10"/><path d="M12 8v4m0 4h.01"/>
+              </svg>
+              <span style={{ fontSize: 11.5, color: '#FCD34D', fontWeight: 600 }}>
+                Please look at the screen — eye movement is monitored for integrity
+              </span>
+            </div>
+          </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
             <div style={{
               width: 8, height: 8, borderRadius: '50%', background: '#4ADE80', flexShrink: 0

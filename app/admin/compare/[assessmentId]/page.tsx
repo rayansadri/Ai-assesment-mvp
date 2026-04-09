@@ -1,6 +1,7 @@
 'use client'
 import { useState, useEffect, use } from 'react'
 import Link from 'next/link'
+import { computeFitScore, getScoreLabel } from '@/lib/programs'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 type BlockType =
@@ -179,18 +180,16 @@ function responsePreview(r: SubmissionResponse): string {
 
 // ─── Candidate card ───────────────────────────────────────────────────────────
 function CandidateCard({
-  sub,
-  note,
-  onNoteChange,
+  sub, note, onNoteChange, score,
 }: {
-  sub: Submission
-  note: string
-  onNoteChange: (val: string) => void
+  sub: Submission; note: string; onNoteChange: (val: string) => void; score: number
 }) {
+  const { label, color, bg } = getScoreLabel(score)
+  const barColor = score >= 85 ? '#10B981' : score >= 72 ? '#4F46E5' : '#F59E0B'
   return (
     <div style={{
       background: '#FFFFFF', borderRadius: 10,
-      border: '1px solid rgba(0,0,0,0.08)',
+      border: `1.5px solid ${score >= 85 ? '#BBF7D0' : score >= 72 ? '#BFDBFE' : '#FDE68A'}`,
       boxShadow: '0 1px 3px rgba(0,0,0,0.05)',
       padding: '16px', minWidth: 200, flex: '1 1 200px',
     }}>
@@ -202,11 +201,14 @@ function CandidateCard({
           {sub.studentEmail}
         </div>
       </Link>
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 10 }}>
-        <StatusBadge status={sub.status} />
-        {sub.totalScore != null && (
-          <span style={{ fontSize: 12, fontWeight: 700, color: '#3451D1' }}>{sub.totalScore}%</span>
-        )}
+      {/* Score display */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 8 }}>
+        <span style={{ fontSize: 26, fontWeight: 800, color: barColor, letterSpacing: '-0.03em' }}>{score}</span>
+        <span style={{ fontSize: 11, fontWeight: 700, padding: '3px 8px', borderRadius: 20, background: bg, color }}>{label}</span>
+      </div>
+      {/* Score bar */}
+      <div style={{ height: 5, background: '#F3F4F6', borderRadius: 3, marginBottom: 12, overflow: 'hidden' }}>
+        <div style={{ height: '100%', width: `${score}%`, background: barColor, borderRadius: 3, transition: 'width 0.4s ease' }} />
       </div>
       <textarea
         value={note}
@@ -235,12 +237,17 @@ export default function CompareView({ params }: { params: Promise<{ assessmentId
     try {
       const stored: Submission[] = JSON.parse(localStorage.getItem('pa-submissions') || '[]')
       const filtered = stored.filter(s => s.assessmentId === assessmentId)
+      // Sort by computed fit score descending
+      filtered.sort((a, b) => computeFitScore(b.id, b.responses) - computeFitScore(a.id, a.responses))
       setSubmissions(filtered)
     } catch {}
     setLoading(false)
   }, [assessmentId])
 
   const assessmentTitle = submissions[0]?.assessmentTitle || 'Assessment'
+
+  // Compute scores for all submissions
+  const scoreMap = Object.fromEntries(submissions.map(s => [s.id, computeFitScore(s.id, s.responses)]))
 
   // Collect all unique response block ids/titles (non-structural) across submissions
   const allBlockIds: { blockId: string; blockTitle: string; blockType: string }[] = []
@@ -260,6 +267,7 @@ export default function CompareView({ params }: { params: Promise<{ assessmentId
 
   // Max 6 columns side by side
   const displaySubs = submissions.slice(0, 6)
+  const maxTotal = displaySubs.length > 0 ? Math.max(...displaySubs.map(s => scoreMap[s.id])) : null
 
   // Find best score per row for highlighting
   const bestScore = (blockId: string): number | null => {
@@ -268,11 +276,6 @@ export default function CompareView({ params }: { params: Promise<{ assessmentId
       .filter((v): v is number => v != null)
     return scores.length > 0 ? Math.max(...scores) : null
   }
-
-  const bestTotalScore = displaySubs
-    .map(s => s.totalScore)
-    .filter((v): v is number => v != null)
-  const maxTotal = bestTotalScore.length > 0 ? Math.max(...bestTotalScore) : null
 
   return (
     <div style={{ display: 'flex', height: '100vh', background: '#F0F2F5', overflow: 'hidden' }}>
@@ -326,6 +329,7 @@ export default function CompareView({ params }: { params: Promise<{ assessmentId
                     sub={sub}
                     note={notes[sub.id] || ''}
                     onNoteChange={v => setNotes(prev => ({ ...prev, [sub.id]: v }))}
+                    score={scoreMap[sub.id] ?? 0}
                   />
                 ))}
               </div>
@@ -377,21 +381,28 @@ export default function CompareView({ params }: { params: Promise<{ assessmentId
                           Overall Score
                         </td>
                         {displaySubs.map(sub => {
-                          const isBest = sub.totalScore != null && maxTotal != null && sub.totalScore === maxTotal
+                          const sc = scoreMap[sub.id] ?? 0
+                          const isBest = maxTotal != null && sc === maxTotal
+                          const { label, color, bg } = getScoreLabel(sc)
                           return (
                             <td key={sub.id} style={{
                               padding: '11px 16px', textAlign: 'center',
                               borderLeft: '1px solid rgba(0,0,0,0.05)',
                             }}>
-                              <span style={{
-                                fontSize: 14, fontWeight: 700,
-                                color: isBest ? '#16A34A' : (sub.totalScore != null ? '#111827' : '#D1D5DB'),
-                                background: isBest ? 'rgba(22,163,74,0.08)' : 'transparent',
-                                padding: isBest ? '3px 8px' : '0',
-                                borderRadius: 6,
-                              }}>
-                                {sub.totalScore != null ? `${sub.totalScore}%` : '—'}
-                              </span>
+                              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
+                                <span style={{
+                                  fontSize: 18, fontWeight: 800, letterSpacing: '-0.02em',
+                                  color: isBest ? '#16A34A' : '#111827',
+                                }}>
+                                  {sc}
+                                </span>
+                                <span style={{
+                                  fontSize: 10.5, fontWeight: 700, padding: '2px 7px',
+                                  borderRadius: 20, background: bg, color,
+                                }}>
+                                  {label}
+                                </span>
+                              </div>
                             </td>
                           )
                         })}
