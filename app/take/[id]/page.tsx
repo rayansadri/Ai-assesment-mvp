@@ -122,17 +122,21 @@ function VideoBlock({
     }
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
+  // Attach stream to video element after it mounts (fixes Safari black screen)
+  useEffect(() => {
+    if (streamReady && videoRef.current && streamRef.current) {
+      videoRef.current.srcObject = streamRef.current
+      videoRef.current.play().catch(() => {})
+    }
+  }, [streamReady])
+
   const handleEnableCamera = async () => {
     setPermissionError(null)
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true })
       streamRef.current = stream
       setStreamReady(true)
-      if (videoRef.current) {
-        videoRef.current.srcObject = stream
-        // Safari requires explicit play() after srcObject is set
-        videoRef.current.play().catch(() => {})
-      }
+      // srcObject is set in useEffect above, after the video element mounts
     } catch {
       setPermissionError('Camera access is required. Please allow camera access in your browser settings.')
     }
